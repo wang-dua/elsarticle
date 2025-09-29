@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: elsarticle-template-num.aux
+The style file: elsarticle-num.bst
+Database file #1: bib.bib
+Warning--empty year in DavidGuy-22
+You've used 38 entries,
+            2952 wiz_defined-function locations,
+            967 strings with 15523 characters,
+and the built_in function-call counts, 13891 in all, are:
+= -- 1381
+> -- 599
+< -- 0
++ -- 225
+- -- 187
+* -- 1245
+:= -- 1954
+add.period$ -- 71
+call.type$ -- 38
+change.case$ -- 71
+chr.to.int$ -- 0
+cite$ -- 39
+duplicate$ -- 331
+empty$ -- 1351
+format.name$ -- 224
+if$ -- 3472
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 33
+newline$ -- 155
+num.names$ -- 38
+pop$ -- 150
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 811
+stack$ -- 0
+substring$ -- 858
+swap$ -- 103
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 67
+width$ -- 40
+write$ -- 408
+(There was 1 warning)
