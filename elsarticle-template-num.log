@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  23 OCT 2025 21:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  23 OCT 2025 21:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -85,41 +85,12 @@ LaTeX Info: Redefining \cite on input line 694.
 \splwrite=\write3
 \openout3 = `elsarticle-template-num.spl'.
 
- (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (d:/SOFTWARE/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (d:/SOFTWARE/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
-\Gm@cnth=\count268
-\Gm@cntv=\count269
-\c@Gm@tempcnt=\count270
-\Gm@bindingoffset=\dimen147
-\Gm@wd@mp=\dimen148
-\Gm@odd@mp=\dimen149
-\Gm@even@mp=\dimen150
-\Gm@layoutwidth=\dimen151
-\Gm@layoutheight=\dimen152
-\Gm@layouthoffset=\dimen153
-\Gm@layoutvoffset=\dimen154
-\Gm@dimlist=\toks19
-) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/base/fleqn.clo
-File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
-\mathindent=\skip54
-Applying: [2015/01/01] Make \[ robust on input line 50.
-LaTeX Info: Redefining \[ on input line 51.
-Already applied: [0000/00/00] Make \[ robust on input line 62.
-Applying: [2015/01/01] Make \] robust on input line 74.
-LaTeX Info: Redefining \] on input line 75.
-Already applied: [0000/00/00] Make \] robust on input line 83.
-)
-\appnamewidth=\dimen155
+\appnamewidth=\dimen147
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks20
+\@emptytoks=\toks19
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -127,29 +98,29 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip55
+\@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
 (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen156
+\@emptytoks=\toks20
+\ex@=\dimen148
 )) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen157
+\pmbraise@=\dimen149
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count271
+\inf@bad=\count268
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count272
-\leftroot@=\count273
+\uproot@=\count269
+\leftroot@=\count270
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count274
-\DOTSCASE@=\count275
+\classnum@=\count271
+\DOTSCASE@=\count272
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -159,148 +130,155 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen158
+\big@size=\dimen150
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count276
+\macc@depth=\count273
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count277
+\c@MaxMatrixCols=\count274
 \dotsspace@=\muskip16
-\c@parentequation=\count278
-\dspbrk@lvl=\count279
-\tag@help=\toks22
-\row@=\count280
-\column@=\count281
-\maxfields@=\count282
-\andhelp@=\toks23
-\eqnshift@=\dimen159
-\alignsep@=\dimen160
-\tagshift@=\dimen161
-\tagwidth@=\dimen162
-\totwidth@=\dimen163
-\lineht@=\dimen164
-\@envbody=\toks24
-\multlinegap=\skip56
-\multlinetaggap=\skip57
-\mathdisplay@stack=\toks25
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks21
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks22
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks23
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen165
+\col@sep=\dimen157
 \ar@mcellbox=\box60
-\extrarowheight=\dimen166
-\NC@list=\toks26
-\extratabsurround=\skip58
-\backup@length=\skip59
+\extrarowheight=\dimen158
+\NC@list=\toks25
+\extratabsurround=\skip57
+\backup@length=\skip58
 \ar@cellbox=\box61
 )
-\TX@col@width=\dimen167
-\TX@old@table=\dimen168
-\TX@old@col=\dimen169
-\TX@target=\dimen170
-\TX@delta=\dimen171
-\TX@cols=\count283
-\TX@ftn=\toks27
+\TX@col@width=\dimen159
+\TX@old@table=\dimen160
+\TX@old@col=\dimen161
+\TX@target=\dimen162
+\TX@delta=\dimen163
+\TX@cols=\count280
+\TX@ftn=\toks26
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks28
-\thm@bodyfont=\toks29
-\thm@headfont=\toks30
-\thm@notefont=\toks31
-\thm@headpunct=\toks32
-\thm@preskip=\skip60
-\thm@postskip=\skip61
-\thm@headsep=\skip62
-\dth@everypar=\toks33
+\thm@style=\toks27
+\thm@bodyfont=\toks28
+\thm@headfont=\toks29
+\thm@notefont=\toks30
+\thm@headpunct=\toks31
+\thm@preskip=\skip59
+\thm@postskip=\skip60
+\thm@headsep=\skip61
+\dth@everypar=\toks32
 LaTeX Info: Redefining \qed on input line 273.
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2023/01/19 line numbers on paragraphs v5.1
-\linenopenalty=\count284
-\output=\toks34
-\linenoprevgraf=\count285
-\linenumbersep=\dimen172
-\linenumberwidth=\dimen173
-\c@linenumber=\count286
-\c@pagewiselinenumber=\count287
-\c@LN@truepage=\count288
-\c@internallinenumber=\count289
-\c@internallinenumbers=\count290
-\quotelinenumbersep=\dimen174
-\bframerule=\dimen175
-\bframesep=\dimen176
+\linenopenalty=\count281
+\output=\toks33
+\linenoprevgraf=\count282
+\linenumbersep=\dimen164
+\linenumberwidth=\dimen165
+\c@linenumber=\count283
+\c@pagewiselinenumber=\count284
+\c@LN@truepage=\count285
+\c@internallinenumber=\count286
+\c@internallinenumbers=\count287
+\quotelinenumbersep=\dimen166
+\bframerule=\dimen167
+\bframesep=\dimen168
 \bframebox=\box62
-\linenoamsmath@ams@eqpen=\count291
+\linenoamsmath@ams@eqpen=\count288
 LaTeX Info: Redefining \\ on input line 3131.
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip63
-\multirow@cntb=\count292
-\multirow@dima=\skip64
-\bigstrutjot=\dimen177
+\multirow@colwidth=\skip62
+\multirow@cntb=\count289
+\multirow@dima=\skip63
+\bigstrutjot=\dimen169
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen178
-\c@nlinenum=\count293
-\TeXr@lab=\toks35
+\rotheadsize=\dimen170
+\c@nlinenum=\count290
+\TeXr@lab=\toks34
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@ALC@unique=\count294
-\c@ALC@line=\count295
-\c@ALC@rem=\count296
-\c@ALC@depth=\count297
-\ALC@tlm=\skip65
-\algorithmicindent=\skip66
+\c@ALC@unique=\count291
+\c@ALC@line=\count292
+\c@ALC@rem=\count293
+\c@ALC@depth=\count294
+\ALC@tlm=\skip64
+\algorithmicindent=\skip65
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count298
-\float@exts=\toks36
+\c@float@type=\count295
+\float@exts=\toks35
 \float@box=\box63
-\@float@everytoks=\toks37
+\@float@everytoks=\toks36
 \@floatcapt=\box64
 )
-\@float@every@algorithm=\toks38
-\c@algorithm=\count299
+\@float@every@algorithm=\toks37
+\c@algorithm=\count296
+) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count297
+\rotFPtop=\skip66
+\rotFPbot=\skip67
+\rot@float@box=\box65
+\rot@mess@toks=\toks38
 ) (./elsarticle-template-num.aux)
 \openout1 = `elsarticle-template-num.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count300
-\scratchdimen=\dimen179
-\scratchbox=\box65
-\nofMPsegments=\count301
-\nofMParguments=\count302
+\scratchcounter=\count298
+\scratchdimen=\dimen171
+\scratchbox=\box66
+\nofMPsegments=\count299
+\nofMParguments=\count300
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count303
-\MPscratchDim=\dimen180
-\MPnumerator=\count304
-\makeMPintoPDFobject=\count305
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen172
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
 \everyMPtoPDFconversion=\toks40
 ) (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -308,664 +286,154 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* hratio: 1:1
-* vratio: 1:1
-* modes: 
-* h-part:(L,W,R)=(37.75394pt, 522.0pt, 37.75394pt)
-* v-part:(T,H,B)=(81.52342pt, 682.0pt, 81.52342pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=522.0pt
-* \textheight=682.0pt
-* \oddsidemargin=-34.51605pt
-* \evensidemargin=-34.51605pt
-* \topmargin=-52.74657pt
-* \headheight=50.0pt
-* \headsep=12.0pt
-* \topskip=12.0pt
-* \footskip=18.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
-* \columnsep=18.0pt
-* \skip\footins=24.0pt plus 2.0pt minus 12.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumntrue
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
-(d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
- (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (5.58344pt too wide) in paragraph at lines 96--98
-\OT1/cmr/m/n/12 in-te-grated net-work con-nect-ing ve-hi-cles, small cloud
- []
-
-
 Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [] 
  []
 
-[1{d:/SOFTWARE/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1
 
 
-]
-Overfull \hbox (7.4112pt too wide) in paragraph at lines 107--114
-[]\OT1/cmr/m/n/12 Service caching stor-ing spe-cific ser-vice pro-grams
+{d:/SOFTWARE/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
+ (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
+ (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2] [3]
+Overfull \hbox (23.07631pt too wide) in paragraph at lines 128--129
+[]\OT1/cmr/m/n/12 Given the NP-hardness of the for-mu-lated prob-lem, we de-sign the DRLSCCO
  []
 
-
-Overfull \hbox (1.73209pt too wide) in paragraph at lines 107--114
-\OT1/cmr/m/n/12 on greedy heuris-tics or of-fline op-ti-miza-tions, which
- []
-
-
-Overfull \hbox (7.76399pt too wide) in paragraph at lines 115--122
-\OT1/cmr/m/n/12 pro-pose a deep re-in-force-ment learn-ing (DRL)-based
- []
-
-
-Overfull \hbox (8.65146pt too wide) in paragraph at lines 115--122
-\OT1/cmr/m/n/12 task de-com-po-si-tion mech-a-nism is in-tro-duced, where
- []
-
-
-Overfull \hbox (16.87637pt too wide) in paragraph at lines 115--122
-\OT1/cmr/m/n/12 flex-i-ble of-fload-ing based on dis-tributed ser-vice caches.
- []
-
-
-Overfull \hbox (1.92792pt too wide) in paragraph at lines 123--125
-\OT1/cmr/m/n/12 lay, the joint ser-vice caching and fine-grained
- []
-
-
-Overfull \hbox (3.9515pt too wide) in paragraph at lines 127--128
-\OT1/cmr/m/n/12 which is ca-pa-ble of jointly op-ti-miz-ing caching
- []
-
-
-Overfull \hbox (1.66681pt too wide) in paragraph at lines 127--128
-\OT1/cmr/m/n/12 cap-tur-ing the in-ter-de-pen-den-cies be-tween the
- []
-
-
-Overfull \hbox (11.1931pt too wide) in paragraph at lines 129--131
-[]\OT1/cmr/m/n/12 We con-duct ex-ten-sive ex-per-i-ments un-der vary-
- []
-
-
-Overfull \hbox (2.75987pt too wide) in paragraph at lines 134--135
-\OT1/cmr/m/n/12 Sec-tion 3[] in-tro-duces the sys-tem model and MINLP
- []
-
-
-Overfull \hbox (9.87462pt too wide) in paragraph at lines 134--135
-\OT1/cmr/m/n/12 for-mu-la-tion. Sec-tion 4[] elab-o-rates on the DRLSCCO
- []
-
-[2]
-Overfull \hbox (2.63347pt too wide) in paragraph at lines 140--155
-\OT1/cmr/m/n/12 aerial ve-hi-cles (UAVs)-assisted het-ero-ge-neous edge
- []
-
-
-Overfull \hbox (4.59883pt too wide) in paragraph at lines 140--155
-\OT1/cmr/m/n/12 learn-ing (RL) tech-niques have been widely adopted
- []
-
-
-Overfull \hbox (1.14459pt too wide) in paragraph at lines 159--169
-\OT1/cmr/m/n/12 con-tent providers and edge servers in a blockchain-
- []
-
-
-Overfull \hbox (14.22177pt too wide) in paragraph at lines 159--169
-\OT1/cmr/m/n/12 while Tang et al. [[]] in-tro-duced a ge-netic algorithm-
- []
-
-
-Overfull \hbox (0.62238pt too wide) in paragraph at lines 159--169
-\OT1/cmr/m/n/12 stantly chang-ing con-tent pop-u-lar-ity, im-prov-ing re-
- []
-
-
-Overfull \hbox (0.15712pt too wide) in paragraph at lines 176--189
-[]\OT1/cmr/m/n/12 Recent stud-ies have be-gun to in-ves-ti-gate VEC-
- []
-
-
-Overfull \hbox (3.45439pt too wide) in paragraph at lines 176--189
-\OT1/cmr/m/n/12 Q-network (DQN) for task of-fload-ing with a greedy
- []
-
-
-Overfull \hbox (1.01404pt too wide) in paragraph at lines 176--189
-\OT1/cmr/m/n/12 strat-egy for re-source man-age-ment, The frame-work
- []
-
-
-Overfull \hbox (2.77652pt too wide) in paragraph at lines 176--189
-\OT1/cmr/m/n/12 ef-fec-tively re-duced sys-tem en-ergy con-sump-tion un-
- []
-
-[3]
-Overfull \hbox (5.32233pt too wide) in paragraph at lines 190--195
-\OT1/cmr/m/n/12 more het-ero-ge-neous and hi-er-ar-chi-cal en-vi-ron-ments.
- []
-
-
-Overfull \hbox (7.01953pt too wide) in paragraph at lines 206--211
-\OT1/cmr/m/n/12 that edge nodes pos-sess suf-fi-cient caching re-sources,
- []
-
-
-Overfull \hbox (3.62512pt too wide) in paragraph at lines 206--211
-\OT1/cmr/m/n/12 these stud-ies that in-cor-po-rate re-source con-straints,
- []
-
-<figures//system model.jpeg, id=17, 475.17525pt x 372.1905pt>
+[4] [5] [6] [7] [8] [9]
+<figures//system model.jpeg, id=36, 475.17525pt x 372.1905pt>
 File: figures//system model.jpeg Graphic file (type jpg)
 <use figures//system model.jpeg>
-Package pdftex.def Info: figures//system model.jpeg  used on input line 264.
-(pdftex.def)             Requested size: 313.20319pt x 245.32845pt.
+Package pdftex.def Info: figures//system model.jpeg  used on input line 259.
+(pdftex.def)             Requested size: 312.00119pt x 244.38571pt.
+ [10 <./figures//system model.jpeg>]
 
-Overfull \hbox (61.20319pt too wide) in paragraph at lines 264--265
- [][] 
+LaTeX Warning: Text page 11 contains only floats.
+
+[11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
+Overfull \hbox (32.52486pt too wide) in paragraph at lines 633--635
+\OT1/cmr/m/n/12 Let $\OT1/cmr/bx/n/12 Z\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )$ de-note de-ci-sion at time slot $\OML/cmm/m/it/12 t$\OT1/cmr/m/n/12 , i.e., $\OT1/cmr/bx/n/12 Z\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = [\OML/cmm/m/it/12 ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; X[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; X[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )]$.
  []
 
-
-Overfull \hbox (3.92981pt too wide) in paragraph at lines 256--280
-\OT1/cmr/m/n/12 The RSUs is de-noted by $\OMS/cmsy/m/n/12 N \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 n \OMS/cmsy/m/n/12 j \OML/cmm/m/it/12 n \OT1/cmr/m/n/12 = 1\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; [] ; N\OMS/cmsy/m/n/12 g$
- []
-
-[4] [5 <./figures//system model.jpeg>]
-Overfull \hbox (17.61618pt too wide) in paragraph at lines 288--291
-\OT1/cmr/m/n/12 gle edge node is ne-glected. The signal-to-interference-
- []
-
-
-Overfull \hbox (9.05829pt too wide) in paragraph at lines 339--343
-\OT1/cmr/m/n/12 vice file. Vec-tors $[][](\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )$ and $[][](\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )$ de-note the caching
- []
-
-
-Overfull \hbox (5.26524pt too wide) in paragraph at lines 353--409
- [] 
- []
-
-
-Overfull \hbox (5.40936pt too wide) in paragraph at lines 344--411
-\OT1/cmr/m/n/12 vehicle-to-edge and edge-to-edge, re-spec-tively. The
- []
-
-
-Overfull \hbox (3.24477pt too wide) in paragraph at lines 344--411
-\OT1/cmr/m/n/12 of-fload-ing pro-por-tion of sub-task $\OML/cmm/m/it/12 s[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )$ cor-re-spond-
- []
-
-[6] [7]
-Overfull \hbox (3.8966pt too wide) detected at line 447
-[]\OML/cmm/m/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 ^^N[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 ^^N[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )[]\OML/cmm/m/it/12 ;
- []
-
-
-Overfull \hbox (13.11185pt too wide) detected at line 454
-[]\OML/cmm/m/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 ^^N[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 ^^N[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )[]\OML/cmm/m/it/12 :
- []
-
-
-Overfull \hbox (7.4684pt too wide) detected at line 460
-[]\OML/cmm/m/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = [] []
- []
-
-
-Overfull \hbox (14.15056pt too wide) detected at line 474
-[][][]
- []
-
-[8]
-Overfull \hbox (19.65196pt too wide) detected at line 558
-[][][]
- []
-
-
-Overfull \hbox (13.14922pt too wide) detected at line 613
-[][][]
- []
-
-[9] [10]
-Overfull \hbox (0.64748pt too wide) in paragraph at lines 701--707
-\OT1/cmr/m/n/12 stochas-tic VEC en-vi-ron-ment and con-se-quently en-
- []
-
-<figures//DRLSCCO.png, id=55, 603.4545pt x 713.064pt>
+[23] [24] [25{d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<figures//DRLSCCO.png, id=104, 603.4545pt x 713.064pt>
 File: figures//DRLSCCO.png Graphic file (type png)
 <use figures//DRLSCCO.png>
-Package pdftex.def Info: figures//DRLSCCO.png  used on input line 758.
-(pdftex.def)             Requested size: 216.81pt x 256.19145pt.
+Package pdftex.def Info: figures//DRLSCCO.png  used on input line 760.
+(pdftex.def)             Requested size: 312.00119pt x 368.67372pt.
+ [26] [27 <./figures//DRLSCCO.png>] [28] [29]
 
-Overfull \hbox (0.49182pt too wide) in paragraph at lines 754--762
-\OT1/cmr/m/n/12 gres-sively con-verged through it-er-a-tive in-ter-ac-tions
- []
+LaTeX Warning: Float too large for page by 47.84988pt on input line 886.
 
-
-Overfull \hbox (32.00356pt too wide) in paragraph at lines 754--762
-\OT1/cmr/m/n/12 with the en-vi-ron-ment. The frame-work of the DRLSCCO
- []
-
-
-Overfull \hbox (6.36676pt too wide) in paragraph at lines 763--764
-\OT1/cmr/m/n/12 cu-mu-la-tive dis-counted re-ward and can be ex-pressed
- []
-
-[11{d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (10.59575pt too wide) detected at line 777
-[][][]
- []
-
-
-Overfull \hbox (7.53926pt too wide) in paragraph at lines 799--800
-[]$\OML/cmm/m/it/12 ^^R[]$ \OT1/cmr/m/n/12 is op-ti-mized by min-i-miz-ing the mean squared
- []
-
-[12 <./figures//DRLSCCO.png>]
-Overfull \hbox (7.77641pt too wide) in paragraph at lines 887--887
-[]\OT1/cmr/bx/n/12 Simulation Ex-per-i-ments and Per-for-mance
- []
-
-
-Overfull \hbox (20.68338pt too wide) in paragraph at lines 920--920
-[]|\OT1/cmr/bx/n/12 Parameter| 
- []
-
-
-Underfull \hbox (badness 3428) in paragraph at lines 920--920
-[]|\OT1/cmr/m/n/12 The num-ber of ser-vice
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 920--920
-[]|$\OT1/cmr/m/n/12 10$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 920--920
-[]|\OT1/cmr/m/n/12 The trans-mis-sion rate
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 920--920
-\OT1/cmr/m/n/12 from an edge node to
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 920--920
-[]|\OT1/cmr/m/n/12 The trans-mis-sion power
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 920--920
-\OT1/cmr/m/n/12 be-tween ad-ja-cent edge
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 920--920
-[]|\OT1/cmr/m/n/12 The trans-mis-sion power
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 920--920
-\OT1/cmr/m/n/12 from an edge node to
- []
-
-
-Overfull \hbox (19.24858pt too wide) in paragraph at lines 929--931
-[]\OT1/cmr/m/n/12 No com-par-a-tive edge nodes (NCE): This scheme
- []
-
-[13]
-Overfull \hbox (3.42929pt too wide) in paragraph at lines 933--935
-\OT1/cmr/m/n/12 fload-ing pro-por-tions for sub-tasks, are all gen-
- []
-
-<figures//convergence_delay.png, id=69, 631.8807pt x 401.3394pt>
+[30] [31] [32]
+<figures//convergence_delay.png, id=129, 631.8807pt x 401.3394pt>
 File: figures//convergence_delay.png Graphic file (type png)
 <use figures//convergence_delay.png>
-Package pdftex.def Info: figures//convergence_delay.png  used on input line 941.
-(pdftex.def)             Requested size: 216.81pt x 137.70287pt.
-<figures//convergence_energy.png, id=71, 631.8807pt x 394.3533pt>
+Package pdftex.def Info: figures//convergence_delay.png  used on input line 942.
+(pdftex.def)             Requested size: 312.00119pt x 198.1645pt.
+<figures//convergence_energy.png, id=131, 631.8807pt x 394.3533pt>
 File: figures//convergence_energy.png Graphic file (type png)
 <use figures//convergence_energy.png>
-Package pdftex.def Info: figures//convergence_energy.png  used on input line 948.
-(pdftex.def)             Requested size: 216.81pt x 135.30588pt.
-
-Overfull \hbox (4.86539pt too wide) in paragraph at lines 953--957
-\OT1/cmr/m/n/12 with even-tual con-ver-gence over suc-ces-sive episodes,
- []
-
-
-Overfull \hbox (7.951pt too wide) in paragraph at lines 953--957
-\OT1/cmr/m/n/12 sumes more en-ergy. Among all bench-mark schemes,
- []
-
-
-Overfull \hbox (6.0002pt too wide) in paragraph at lines 953--957
-\OT1/cmr/m/n/12 NCE lacks co-op-er-a-tive caching and of-fload-ing, forc-
- []
-
-
-Overfull \hbox (1.56137pt too wide) in paragraph at lines 953--957
-\OT1/cmr/m/n/12 con-firm that the pro-posed DRLSCCO scheme con-
- []
-
-[14 <./figures//convergence_delay.png> <./figures//convergence_energy.png>]
-<figures//task_size_delay.png, id=77, 627.0627pt x 394.3533pt>
+Package pdftex.def Info: figures//convergence_energy.png  used on input line 949.
+(pdftex.def)             Requested size: 312.00119pt x 194.71506pt.
+ [33 <./figures//convergence_delay.png>] [34 <./figures//convergence_energy.png>]
+<figures//task_size_delay.png, id=140, 627.0627pt x 394.3533pt>
 File: figures//task_size_delay.png Graphic file (type png)
 <use figures//task_size_delay.png>
-Package pdftex.def Info: figures//task_size_delay.png  used on input line 963.
-(pdftex.def)             Requested size: 216.81pt x 136.34688pt.
-
-Overfull \hbox (8.12924pt too wide) in paragraph at lines 959--967
-\OT1/cmr/m/n/12 man-ner, min-i-miz-ing in-ter-fer-ence from net-work scale
- []
-
-
-Overfull \hbox (4.34317pt too wide) in paragraph at lines 968--974
-\OT1/cmr/m/n/12 tel-li-gent re-source man-age-ment be-comes im-por-tant.
- []
-
-<figures//vehicle_density.png, id=78, 696.4419pt x 409.2891pt>
+Package pdftex.def Info: figures//task_size_delay.png  used on input line 962.
+(pdftex.def)             Requested size: 312.00119pt x 196.21939pt.
+ [35 <./figures//task_size_delay.png>]
+<figures//vehicle_density.png, id=145, 696.4419pt x 409.2891pt>
 File: figures//vehicle_density.png Graphic file (type png)
 <use figures//vehicle_density.png>
-Package pdftex.def Info: figures//vehicle_density.png  used on input line 978.
-(pdftex.def)             Requested size: 216.81pt x 127.41539pt.
-
-Overfull \hbox (0.62238pt too wide) in paragraph at lines 983--986
-\OT1/cmr/m/n/12 pu-ta-tion de-lay in all schemes rises due to in-creased
- []
-
-
-Overfull \hbox (2.23174pt too wide) in paragraph at lines 983--986
-\OT1/cmr/m/n/12 creases. No-tably, DRLSCCO con-sis-tently achieves
- []
-
-[15 <./figures//task_size_delay.png> <./figures//vehicle_density.png>]
-Overfull \hbox (20.53989pt too wide) in paragraph at lines 991--1002
-\OT1/cmr/m/n/12 sump-tion re-main con-stant. Both LR-USC and RSCCO
- []
-
-
-Overfull \hbox (4.62604pt too wide) in paragraph at lines 991--1002
-\OT1/cmr/m/n/12 quency. This phe-nomenon in-di-cates that the trans-
- []
-
-<figures//f_delay.png, id=84, 638.6259pt x 397.0032pt>
+Package pdftex.def Info: figures//vehicle_density.png  used on input line 979.
+(pdftex.def)             Requested size: 312.00119pt x 183.354pt.
+ [36 <./figures//vehicle_density.png>]
+<figures//f_delay.png, id=150, 638.6259pt x 397.0032pt>
 File: figures//f_delay.png Graphic file (type png)
 <use figures//f_delay.png>
-Package pdftex.def Info: figures//f_delay.png  used on input line 1005.
-(pdftex.def)             Requested size: 216.81pt x 134.77939pt.
-<figures//f_energy.png, id=85, 627.0627pt x 394.3533pt>
+Package pdftex.def Info: figures//f_delay.png  used on input line 995.
+(pdftex.def)             Requested size: 312.00119pt x 193.96384pt.
+<figures//f_energy.png, id=151, 627.0627pt x 394.3533pt>
 File: figures//f_energy.png Graphic file (type png)
 <use figures//f_energy.png>
-Package pdftex.def Info: figures//f_energy.png  used on input line 1011.
-(pdftex.def)             Requested size: 216.81pt x 136.34688pt.
+Package pdftex.def Info: figures//f_energy.png  used on input line 1001.
+(pdftex.def)             Requested size: 312.00119pt x 196.21939pt.
+ [37] [38 <./figures//f_delay.png> <./figures//f_energy.png>] [39] (./elsarticle-template-num.bbl [40]
+Underfull \hbox (badness 1389) in paragraph at lines 17--19
+\OT1/cmr/m/n/12 works, IEEE AC-CESS 10 (2022) 3580--3600, 2022-01-19 Re-view.
+ []
 
-Overfull \hbox (9.44325pt too wide) in paragraph at lines 1022--1032
-\OT1/cmr/m/n/12 MINLP prob-lem and pro-posed a DRL-based scheme
+[41]
+Underfull \hbox (badness 1142) in paragraph at lines 41--43
+[]\OT1/cmr/m/n/12 H. Yan, H. Li, X. Xu, M. Bi-lal, Uav-enhanced ser-vice caching
  []
 
 
-Overfull \hbox (0.75293pt too wide) in paragraph at lines 1022--1032
-\OT1/cmr/m/n/12 en-ergy con-sump-tion grad-u-ally con-verge as caching
+Underfull \hbox (badness 1147) in paragraph at lines 41--43
+\OT1/cmr/m/n/12 for iot sys-tems in ex-treme en-vi-ron-ments, IEEE IN-TER-NET OF
+ []
+
+[42]
+Underfull \hbox (badness 1215) in paragraph at lines 60--62
+[]\OT1/cmr/m/n/12 J. Lin, L. Huang, H. Zhang, X. Yang, P. Zhao, A novel lya-
+ []
+
+[43]
+Underfull \hbox (badness 2903) in paragraph at lines 80--82
+[]\OT1/cmr/m/n/12 M. Tang, V. Wong, Deep re-in-force-ment learn-ing for task of-
  []
 
 
-Overfull \hbox (3.42099pt too wide) in paragraph at lines 1022--1032
-\OT1/cmr/m/n/12 Ex-per-i-men-tal re-sults demon-strate that DRLSCCO
- []
-
-[16 <./figures//f_delay.png> <./figures//f_energy.png>] (./elsarticle-template-num.bbl
-Underfull \hbox (badness 2351) in paragraph at lines 13--15
-\OT1/cmr/m/n/10 net-works in the in-dus-try 4.0 era and be-yond:
+Underfull \hbox (badness 2941) in paragraph at lines 80--82
+\OT1/cmr/m/n/12 fload-ing in mo-bile edge com-put-ing sys-tems, IEEE TRANS-AC-
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 13--15
-\OT1/cmr/m/n/10 A high-level view, EN-GI-NEER-ING SCI-ENCE
+Underfull \hbox (badness 3302) in paragraph at lines 80--82
+\OT1/cmr/m/n/12 TIONS ON MO-BILE COM-PUT-ING 21 (6) (2022) 1985--1997.
+ []
+
+[44] [45]
+Underfull \hbox (badness 7667) in paragraph at lines 113--115
+[]\OT1/cmr/m/n/12 H. Wu, B. Wang, H. Ma, X. Zhang, L. Xing, Mul-ti-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-\OT1/cmr/m/n/10 AND TECHNOLOGY-AN IN-TER-NA-TIONAL
+Underfull \hbox (badness 6300) in paragraph at lines 113--115
+\OT1/cmr/m/n/12 strat-egy for ve-hic-u-lar edge net-works, IEEE IN-TER-NET OF
+ []
+
+[46] [47]
+Underfull \hbox (badness 1342) in paragraph at lines 148--150
+\OT1/cmr/m/n/12 place-ment and com-pu-ta-tion of-fload-ing in mo-bile edge com-put-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-\OT1/cmr/m/n/10 JOURNAL-JESTECH 54, 2024-06-15 Re-view
+Underfull \hbox (badness 1394) in paragraph at lines 148--150
+\OT1/cmr/m/n/12 sys-tems, IEEE Trans-ac-tions on Wire-less Com-mu-ni-ca-tions 19 (7)
  []
 
-
-Underfull \hbox (badness 2197) in paragraph at lines 25--27
-\OT1/cmr/m/n/10 learning-based col-lab-o-ra-tive caching strat-egy for
- []
-
-
-Underfull \hbox (badness 1412) in paragraph at lines 25--27
-\OT1/cmr/m/n/10 ve-hic-u-lar edge net-works, IEEE IN-TER-NET OF
- []
-
-
-Underfull \hbox (badness 1675) in paragraph at lines 48--50
-\OT1/cmr/m/n/10 K. B. Letaief, A sur-vey on mo-bile edge com-
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 48--50
-\OT1/cmr/m/n/10 put-ing: The com-mu-ni-ca-tion per-spec-tive, IEEE
- []
-
-
-Underfull \hbox (badness 2197) in paragraph at lines 48--50
-\OT1/cmr/m/n/10 of Sci-ence Core Col-lec-tion: 2049 To-tal Times
- []
-
-[17]
-Underfull \hbox (badness 1584) in paragraph at lines 60--62
-\OT1/cmr/m/n/10 A novel lya-punov based dy-namic re-source al-lo-
- []
-
-
-Underfull \hbox (badness 1831) in paragraph at lines 60--62
-\OT1/cmr/m/n/10 ca-tion for uavs-assisted edge com-put-ing, COM-
- []
-
-
-Underfull \hbox (badness 5756) in paragraph at lines 60--62
-\OT1/cmr/m/n/10 PUTER NET-WORKS 205, 2022-04-27 Ar-ti-cle
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 64--66
-[]\OT1/cmr/m/n/10 Z. L., S. Y., C. Z., R. S., Communications-
- []
-
-
-Underfull \hbox (badness 4634) in paragraph at lines 68--70
-\OT1/cmr/m/n/10 egy based on re-in-force-ment learn-ing for con-
- []
-
-
-Underfull \hbox (badness 4673) in paragraph at lines 72--74
-\OT1/cmr/m/n/10 Shi, M. Huang, Joint op-ti-miza-tion of multi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
-\OT1/cmr/m/n/10 dimensional re-source al-lo-ca-tion and task of-
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 72--74
-\OT1/cmr/m/n/10 fload-ing for qoe en-hance-ment in cloud-edge-end
- []
-
-
-Underfull \hbox (badness 6078) in paragraph at lines 72--74
-\OT1/cmr/m/n/10 col-lab-o-ra-tion, FU-TURE GEN-ER-A-TION COM-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
-\OT1/cmr/m/n/10 PUTER SYSTEMS-THE IN-TER-NA-TIONAL
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 72--74
-\OT1/cmr/m/n/10 JOUR-NAL OF ESCIENCE 155 (2024) 121--131.
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 76--78
-\OT1/cmr/m/n/10 K. S. Wu, Sharing-aware task of-fload-ing of re-
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 76--78
-\OT1/cmr/m/n/10 CLOUD COM-PUT-ING 11 (1) (2023) 997--1010.
- []
-
-
-Underfull \hbox (badness 1960) in paragraph at lines 80--82
-[]\OT1/cmr/m/n/10 M. Tang, V. Wong, Deep re-in-force-ment learn-
- []
-
-
-Underfull \hbox (badness 1502) in paragraph at lines 80--82
-\OT1/cmr/m/n/10 ing for task of-fload-ing in mo-bile edge com-put-
- []
-
-
-Underfull \hbox (badness 1859) in paragraph at lines 80--82
-\OT1/cmr/m/n/10 ing sys-tems, IEEE TRANS-AC-TIONS ON MO-
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 80--82
-\OT1/cmr/m/n/10 BILE COM-PUT-ING 21 (6) (2022) 1985--1997.
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 113--115
-\OT1/cmr/m/n/10 col-lab-o-ra-tive caching strat-egy for ve-hic-u-lar edge
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 117--119
-[]\OT1/cmr/m/n/10 S. Yu, X. Gong, Q. Shi, X. Wang, X. Chen,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
-\OT1/cmr/m/n/10 Ec-sagins: Edge-computing-enhanced space-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
-\OT1/cmr/m/n/10 air-ground-integrated net-works for in-ter-net
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
-\OT1/cmr/m/n/10 of ve-hi-cles, IEEE in-ter-net of things jour-
- []
-
-
-Underfull \hbox (badness 7168) in paragraph at lines 117--119
-\OT1/cmr/m/n/10 nal 9 (8) (2022) 5742--5754, jour-nal Ar-ti-cle
- []
-
-
-Overfull \hbox (1.65329pt too wide) in paragraph at lines 117--119
-\OT1/cmr/m/n/10 http://www.syndetics.com/index.aspx?isbn=/sc.gif&
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
-\OT1/cmr/m/n/10 issn=2327-4662& client=summontrial.
- []
-
-
-Underfull \hbox (badness 1874) in paragraph at lines 121--123
-\OT1/cmr/m/n/10 ter-net of con-nected ve-hi-cles, IEEE TRANS-AC-
- []
-
-[18]
-Underfull \hbox (badness 2809) in paragraph at lines 133--135
-[]\OT1/cmr/m/n/10 C. Cheng, L. Zhai, X. Zhu, Y. Jia, Y. Li,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-\OT1/cmr/m/n/10 Dy-namic task of-fload-ing and ser-vice caching
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 133--135
-\OT1/cmr/m/n/10 based on game the-ory in ve-hic-u-lar edge com-
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 133--135
-\OT1/cmr/m/n/10 put-ing net-works, COM-PUTER COM-MU-NI-CA-
- []
-
-
-Underfull \hbox (badness 5105) in paragraph at lines 133--135
-\OT1/cmr/m/n/10 TIONS 224 (2024) 29--41, 2024-06-25 Ar-ti-cle.
- []
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 141--143
-\OT1/cmr/m/n/10 Re-source al-lo-ca-tion for delay-sensitive vehicle-to-
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 141--143
-\OT1/cmr/m/n/10 works: A multi-agent deep re-in-force-ment learn-
- []
-
-) [19
-
-] (./elsarticle-template-num.aux) ) 
+) [48] (./elsarticle-template-num.aux) ) 
 Here is how much of TeX's memory you used:
- 5557 strings out of 476025
- 84773 string characters out of 5789523
- 1874382 words of memory out of 5000000
- 25915 multiletter control sequences out of 15000+600000
+ 5065 strings out of 476025
+ 77137 string characters out of 5789523
+ 1867382 words of memory out of 5000000
+ 25433 multiletter control sequences out of 15000+600000
  522886 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,18n,76p,620b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,20n,76p,620b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on elsarticle-template-num.pdf (19 pages, 2678865 bytes).
+Output written on elsarticle-template-num.pdf (48 pages, 2683309 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
+ 283 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
