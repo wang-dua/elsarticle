@@ -1,0 +1,5 @@
+PWD d:/SOFTWARE/Texmodel/elsarticle
+INPUT d:/SOFTWARE/texlive/2023/texmf.cnf
+INPUT d:/SOFTWARE/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT d:/SOFTWARE/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/SOFTWARE/Texmodel/elsarticle/elsarticle-template-num.tex
