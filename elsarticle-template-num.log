@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  23 OCT 2025 21:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  26 OCT 2025 18:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/SOFTWARE/Texmodel/elsarticle/elsarticle-template-num.tex
-(d:/SOFTWARE/Texmodel/elsarticle/elsarticle-template-num.tex
+**"d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex"
+(d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/elsarticle/elsarticle.cls
 Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
@@ -307,70 +307,70 @@ Overfull \hbox (23.07631pt too wide) in paragraph at lines 128--129
  []
 
 [4] [5] [6] [7] [8] [9]
-<figures//system model.jpeg, id=36, 475.17525pt x 372.1905pt>
-File: figures//system model.jpeg Graphic file (type jpg)
-<use figures//system model.jpeg>
-Package pdftex.def Info: figures//system model.jpeg  used on input line 259.
+<figures//Figure1.jpeg, id=36, 475.17525pt x 372.1905pt>
+File: figures//Figure1.jpeg Graphic file (type jpg)
+<use figures//Figure1.jpeg>
+Package pdftex.def Info: figures//Figure1.jpeg  used on input line 263.
 (pdftex.def)             Requested size: 312.00119pt x 244.38571pt.
- [10 <./figures//system model.jpeg>]
+ [10] [11 <./figures//Figure1.jpeg>]
 
-LaTeX Warning: Text page 11 contains only floats.
+LaTeX Warning: Text page 12 contains only floats.
 
-[11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
-Overfull \hbox (32.52486pt too wide) in paragraph at lines 633--635
+[12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
+Overfull \hbox (32.52486pt too wide) in paragraph at lines 637--639
 \OT1/cmr/m/n/12 Let $\OT1/cmr/bx/n/12 Z\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )$ de-note de-ci-sion at time slot $\OML/cmm/m/it/12 t$\OT1/cmr/m/n/12 , i.e., $\OT1/cmr/bx/n/12 Z\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = [\OML/cmm/m/it/12 ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; ![]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; X[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; X[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )]$.
  []
 
-[23] [24] [25{d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<figures//DRLSCCO.png, id=104, 603.4545pt x 713.064pt>
-File: figures//DRLSCCO.png Graphic file (type png)
-<use figures//DRLSCCO.png>
-Package pdftex.def Info: figures//DRLSCCO.png  used on input line 760.
+[23] [24] [25] [26{d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<figures//Figure2.jpeg, id=107, 603.4545pt x 713.064pt>
+File: figures//Figure2.jpeg Graphic file (type jpg)
+<use figures//Figure2.jpeg>
+Package pdftex.def Info: figures//Figure2.jpeg  used on input line 764.
 (pdftex.def)             Requested size: 312.00119pt x 368.67372pt.
- [26] [27 <./figures//DRLSCCO.png>] [28] [29]
+ [27] [28 <./figures//Figure2.jpeg>] [29] [30]
 
-LaTeX Warning: Float too large for page by 47.84988pt on input line 886.
+LaTeX Warning: Float too large for page by 47.84988pt on input line 890.
 
-[30] [31] [32]
-<figures//convergence_delay.png, id=129, 631.8807pt x 401.3394pt>
-File: figures//convergence_delay.png Graphic file (type png)
-<use figures//convergence_delay.png>
-Package pdftex.def Info: figures//convergence_delay.png  used on input line 942.
-(pdftex.def)             Requested size: 312.00119pt x 198.1645pt.
-<figures//convergence_energy.png, id=131, 631.8807pt x 394.3533pt>
-File: figures//convergence_energy.png Graphic file (type png)
-<use figures//convergence_energy.png>
-Package pdftex.def Info: figures//convergence_energy.png  used on input line 949.
-(pdftex.def)             Requested size: 312.00119pt x 194.71506pt.
- [33 <./figures//convergence_delay.png>] [34 <./figures//convergence_energy.png>]
-<figures//task_size_delay.png, id=140, 627.0627pt x 394.3533pt>
-File: figures//task_size_delay.png Graphic file (type png)
-<use figures//task_size_delay.png>
-Package pdftex.def Info: figures//task_size_delay.png  used on input line 962.
-(pdftex.def)             Requested size: 312.00119pt x 196.21939pt.
- [35 <./figures//task_size_delay.png>]
-<figures//vehicle_density.png, id=145, 696.4419pt x 409.2891pt>
-File: figures//vehicle_density.png Graphic file (type png)
-<use figures//vehicle_density.png>
-Package pdftex.def Info: figures//vehicle_density.png  used on input line 979.
-(pdftex.def)             Requested size: 312.00119pt x 183.354pt.
- [36 <./figures//vehicle_density.png>]
-<figures//f_delay.png, id=150, 638.6259pt x 397.0032pt>
-File: figures//f_delay.png Graphic file (type png)
-<use figures//f_delay.png>
-Package pdftex.def Info: figures//f_delay.png  used on input line 995.
-(pdftex.def)             Requested size: 312.00119pt x 193.96384pt.
-<figures//f_energy.png, id=151, 627.0627pt x 394.3533pt>
-File: figures//f_energy.png Graphic file (type png)
-<use figures//f_energy.png>
-Package pdftex.def Info: figures//f_energy.png  used on input line 1001.
-(pdftex.def)             Requested size: 312.00119pt x 196.21939pt.
- [37] [38 <./figures//f_delay.png> <./figures//f_energy.png>] [39] (./elsarticle-template-num.bbl [40]
+[31] [32] [33]
+<figures//Figure3.jpeg, id=132, 624.6537pt x 398.9304pt>
+File: figures//Figure3.jpeg Graphic file (type jpg)
+<use figures//Figure3.jpeg>
+Package pdftex.def Info: figures//Figure3.jpeg  used on input line 946.
+(pdftex.def)             Requested size: 312.00119pt x 199.26382pt.
+<figures//Figure4.jpeg, id=134, 624.6537pt x 392.4261pt>
+File: figures//Figure4.jpeg Graphic file (type jpg)
+<use figures//Figure4.jpeg>
+Package pdftex.def Info: figures//Figure4.jpeg  used on input line 953.
+(pdftex.def)             Requested size: 312.00119pt x 196.01495pt.
+ [34 <./figures//Figure3.jpeg>] [35 <./figures//Figure4.jpeg>]
+<figures//Figure5.jpeg, id=143, 620.0766pt x 398.9304pt>
+File: figures//Figure5.jpeg Graphic file (type jpg)
+<use figures//Figure5.jpeg>
+Package pdftex.def Info: figures//Figure5.jpeg  used on input line 966.
+(pdftex.def)             Requested size: 312.00119pt x 200.73083pt.
+ [36 <./figures//Figure5.jpeg>]
+<figures//Figure6.jpeg, id=148, 697.1646pt x 407.6028pt>
+File: figures//Figure6.jpeg Graphic file (type jpg)
+<use figures//Figure6.jpeg>
+Package pdftex.def Info: figures//Figure6.jpeg  used on input line 983.
+(pdftex.def)             Requested size: 312.00119pt x 182.41199pt.
+ [37 <./figures//Figure6.jpeg>]
+<figures//Figure7.jpeg, id=154, 629.2308pt x 394.5942pt>
+File: figures//Figure7.jpeg Graphic file (type jpg)
+<use figures//Figure7.jpeg>
+Package pdftex.def Info: figures//Figure7.jpeg  used on input line 999.
+(pdftex.def)             Requested size: 312.00119pt x 195.65889pt.
+<figures//Figure8.jpeg, id=155, 620.0766pt x 392.667pt>
+File: figures//Figure8.jpeg Graphic file (type jpg)
+<use figures//Figure8.jpeg>
+Package pdftex.def Info: figures//Figure8.jpeg  used on input line 1005.
+(pdftex.def)             Requested size: 312.00119pt x 197.57927pt.
+ [38] [39 <./figures//Figure7.jpeg> <./figures//Figure8.jpeg>] [40] (./elsarticle-template-num.bbl [41]
 Underfull \hbox (badness 1389) in paragraph at lines 17--19
 \OT1/cmr/m/n/12 works, IEEE AC-CESS 10 (2022) 3580--3600, 2022-01-19 Re-view.
  []
 
-[41]
+[42]
 Underfull \hbox (badness 1142) in paragraph at lines 41--43
 []\OT1/cmr/m/n/12 H. Yan, H. Li, X. Xu, M. Bi-lal, Uav-enhanced ser-vice caching
  []
@@ -380,60 +380,90 @@ Underfull \hbox (badness 1147) in paragraph at lines 41--43
 \OT1/cmr/m/n/12 for iot sys-tems in ex-treme en-vi-ron-ments, IEEE IN-TER-NET OF
  []
 
-[42]
+[43]
 Underfull \hbox (badness 1215) in paragraph at lines 60--62
 []\OT1/cmr/m/n/12 J. Lin, L. Huang, H. Zhang, X. Yang, P. Zhao, A novel lya-
  []
 
-[43]
-Underfull \hbox (badness 2903) in paragraph at lines 80--82
+
+Underfull \hbox (badness 7030) in paragraph at lines 68--69
+[]\OT1/cmr/m/n/12 M. Wen, X. Liu, X. Ning, C. Liu, X. Chen, J. Nian,
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 68--69
+\OT1/cmr/m/n/12 L. Cheng, Deep re-in-force-ment learn-ing for energy-efficient work-
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 68--69
+\OT1/cmr/m/n/12 flow schedul-ing in edge com-put-ing, Com-puter Net-works (2025)
+ []
+
+[44]
+Underfull \hbox (badness 2903) in paragraph at lines 83--85
 []\OT1/cmr/m/n/12 M. Tang, V. Wong, Deep re-in-force-ment learn-ing for task of-
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 80--82
+Underfull \hbox (badness 2941) in paragraph at lines 83--85
 \OT1/cmr/m/n/12 fload-ing in mo-bile edge com-put-ing sys-tems, IEEE TRANS-AC-
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 80--82
+Underfull \hbox (badness 3302) in paragraph at lines 83--85
 \OT1/cmr/m/n/12 TIONS ON MO-BILE COM-PUT-ING 21 (6) (2022) 1985--1997.
  []
 
-[44] [45]
-Underfull \hbox (badness 7667) in paragraph at lines 113--115
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]\OT1/cmr/m/n/12 C. Li, K. Xiao, J. Xu, W. Ji, Parked-vehicle-assisted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\OT1/cmr/m/n/12 task of-fload-ing in ve-hic-u-lar edge com-put-ing: A stack-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\OT1/cmr/m/n/12 el-berg game ap-proach, Com-puter Net-works (2025)
+ []
+
+[46]
+Underfull \hbox (badness 7667) in paragraph at lines 119--121
 []\OT1/cmr/m/n/12 H. Wu, B. Wang, H. Ma, X. Zhang, L. Xing, Mul-ti-a-
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 113--115
+Underfull \hbox (badness 6300) in paragraph at lines 119--121
 \OT1/cmr/m/n/12 strat-egy for ve-hic-u-lar edge net-works, IEEE IN-TER-NET OF
  []
 
-[46] [47]
-Underfull \hbox (badness 1342) in paragraph at lines 148--150
+[47] [48]
+Underfull \hbox (badness 1342) in paragraph at lines 158--160
 \OT1/cmr/m/n/12 place-ment and com-pu-ta-tion of-fload-ing in mo-bile edge com-put-ing
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 148--150
+Underfull \hbox (badness 1394) in paragraph at lines 158--160
 \OT1/cmr/m/n/12 sys-tems, IEEE Trans-ac-tions on Wire-less Com-mu-ni-ca-tions 19 (7)
  []
 
-) [48] (./elsarticle-template-num.aux) ) 
+) [49] (./elsarticle-template-num.aux) ) 
 Here is how much of TeX's memory you used:
- 5065 strings out of 476025
- 77137 string characters out of 5789523
- 1867382 words of memory out of 5000000
- 25433 multiletter control sequences out of 15000+600000
+ 5073 strings out of 476025
+ 76988 string characters out of 5789523
+ 1866382 words of memory out of 5000000
+ 25442 multiletter control sequences out of 15000+600000
  522886 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,20n,76p,620b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,20n,76p,641b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on elsarticle-template-num.pdf (48 pages, 2683309 bytes).
+Output written on elsarticle-template-num.pdf (49 pages, 2671514 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
+ 287 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

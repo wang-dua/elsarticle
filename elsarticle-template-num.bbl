@@ -64,6 +64,9 @@ J.~Lin, L.~Huang, H.~Zhang, X.~Yang, P.~Zhao, A novel lyapunov based dynamic res
 Z.~L., S.~Y., C.~Z., R.~S., Communications-caching-computing resource allocation for bidirectional data computation in mobile edge networks, IEEE Transactions on Communications 69~(3) (2021) 1496--1509, iEEE Transactions on Communications.
 \newblock \href {https://doi.org/10.1109/TCOMM.2020.3041343} {\path{doi:10.1109/TCOMM.2020.3041343}}.
 
+\bibitem{Wen}
+M.~Wen, X.~Liu, X.~Ning, C.~Liu, X.~Chen, J.~Nian, L.~Cheng, Deep reinforcement learning for energy-efficient workflow scheduling in edge computing, Computer Networks (2025) 111790\href {https://doi.org/https://doi.org/10.1016/j.comnet.2025.111790} {\path{doi:https://doi.org/10.1016/j.comnet.2025.111790}}.
+
 \bibitem{ZhangXia-25}
 R.~Zhang, H.~Xia, Z.~J. Chen, Z.~Kang, K.~Wang, W.~Gao, Computation cost-driven offloading strategy based on reinforcement learning for consumer devices, IEEE TRANSACTIONS ON CONSUMER ELECTRONICS 70~(1) (2024) 4120--4131.
 \newblock \href {https://doi.org/10.1109/TCE.2024.3357459} {\path{doi:10.1109/TCE.2024.3357459}}.
@@ -101,6 +104,9 @@ M.~Zhao, M.~R. Nakhai, IEEE, Deep reinforcement learning based two-phase proacti
 X.~J. Kong, G.~H. Duan, M.~L. Hou, G.~J. Shen, H.~Wang, X.~R. Yan, M.~Collotta, Deep reinforcement learning-based energy-efficient edge computing for internet of vehicles, IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS 18~(9) (2022) 6308--6316, times Cited in Web of Science Core Collection: 64 Total Times Cited: 65 Cited Reference Count: 30 ER -.
 \newblock \href {https://doi.org/10.1109/TII.2022.3155162} {\path{doi:10.1109/TII.2022.3155162}}.
 
+\bibitem{Chunlin}
+C.~Li, K.~Xiao, J.~Xu, W.~Ji, Parked-vehicle-assisted task offloading in vehicular edge computing: A stackelberg game approach, Computer Networks (2025) 111800\href {https://doi.org/https://doi.org/10.1016/j.comnet.2025.111800} {\path{doi:https://doi.org/10.1016/j.comnet.2025.111800}}.
+
 \bibitem{ChenBhargava-9}
 C.~L. Chen, B.~Bhargava, V.~Aggarwal, B.~Tonshal, A.~Gopal, A hybrid deep reinforcement learning approach for jointly optimizing offloading and resource management in vehicular networks, IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY 73~(2) (2024) 2456--2467, times Cited in Web of Science Core Collection: 0 Total Times Cited: 0 Cited Reference Count: 30 ER -.
 \newblock \href {https://doi.org/10.1109/TVT.2023.3312340} {\path{doi:10.1109/TVT.2023.3312340}}.
@@ -120,6 +126,10 @@ S.~Yu, X.~Gong, Q.~Shi, X.~Wang, X.~Chen, Ec-sagins: Edge-computing-enhanced spa
 \bibitem{YuWu-35}
 G.~Yu, J.~Wu, R.~Liu, Y.~He, Z.~Chen, J.~Pan, Joint cooperative caching and uav trajectory optimization based on mobility prediction in the internet of connected vehicles, IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS 25~(11) (2024) 17392--17406, 2024-08-22 Article.
 \newblock \href {https://doi.org/10.1109/TITS.2024.3429305} {\path{doi:10.1109/TITS.2024.3429305}}.
+
+\bibitem{liuzhixin}
+Z.~Liu, L.~Gao, Z.~Ma, J.~Su, F.~Li, Y.~Yuan, X.~Guan, Joint task offloading and resource allocation scheme with uav assistance in vehicle edge computing networks, Computer Networks 273 (2025) 111746.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.comnet.2025.111746} {\path{doi:https://doi.org/10.1016/j.comnet.2025.111746}}.
 
 \bibitem{XueLiu-18}
 Z.~Xue, C.~Liu, C.~L. Liao, G.~J. Han, Z.~G. Sheng, Joint service caching and computation offloading scheme based on deep reinforcement learning in vehicular edge computing systems, IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY 72~(5) (2023) 6709--6722, times Cited in Web of Science Core Collection: 22 Total Times Cited: 22 Cited Reference Count: 41 ER -.

@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex elsarticle-template-num"] 1761226350 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1761226357 0
-  "./bib.bib" 1745982442 21397 fe0ae43724d0d0db59a06d6b88c710c6 ""
+["bibtex elsarticle-template-num"] 1761473984 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1761473993 0
+  "./bib.bib" 1761473444 22907 802972f547f4e09418c605fe392c94e2 ""
   "./elsarticle-num.bst" 1736419034 29462 3b2a1af2ce1e224a3b46ee048ffd4b98 ""
-  "elsarticle-template-num.aux" 1761226356 9025 58a4aa0c4dbab5a08bac3c631d2f4b16 "pdflatex"
+  "elsarticle-template-num.aux" 1761473991 9180 e59655df1c555d4c44f1acaa83d176bb "pdflatex"
   (generated)
   "elsarticle-template-num.bbl"
   "elsarticle-template-num.blg"
   (rewritten before read)
-["pdflatex"] 1761226350 "d:/SOFTWARE/Texmodel/elsarticle/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1761226357 0
-  "d:/SOFTWARE/Texmodel/elsarticle/elsarticle-template-num.tex" 1761226341 71292 a5d0a67bef2a63dcf0953315e4ec8aa1 ""
+["pdflatex"] 1761473985 "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1761473993 0
+  "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" 1761473967 71934 aaea1332c9acf0d39d49ff6e61f20885 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1701156146 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1701156599 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1701156401 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -105,18 +105,18 @@
   "d:/SOFTWARE/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701159153 4662822 d9decf19d0957b84ba08b66e7f546f43 ""
   "d:/SOFTWARE/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701159324 7883613 ec33933a16a9d76c3288846bed18e78d ""
   "d:/SOFTWARE/texlive/2023/texmf.cnf" 1701159102 713 e69b156964470283e0530f5060668171 ""
-  "elsarticle-template-num.aux" 1761226356 9025 58a4aa0c4dbab5a08bac3c631d2f4b16 "pdflatex"
-  "elsarticle-template-num.bbl" 1761226350 13659 82152ea0f9abea9eff0131ae90460530 "bibtex elsarticle-template-num"
-  "elsarticle-template-num.spl" 1761226351 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "elsarticle-template-num.tex" 1761226341 71292 a5d0a67bef2a63dcf0953315e4ec8aa1 ""
-  "figures//DRLSCCO.png" 1745502592 665446 a0d3f9010fdf6864e40782033aca957c ""
-  "figures//convergence_delay.png" 1746021626 478459 7993698ae780502b67fd9fd4650184c8 ""
-  "figures//convergence_energy.png" 1746021693 444599 6265630582c89ffe1aaa6ba8d6235355 ""
-  "figures//f_delay.png" 1746022562 238010 87ffe8d3bd61ed2200a14f415b3cb4bd ""
-  "figures//f_energy.png" 1746022238 234627 ec177dc99e69f34b6b628f684939be68 ""
-  "figures//system model.jpeg" 1746610657 320893 35c854627b493005f5a5c67f14314c4e ""
-  "figures//task_size_delay.png" 1746021852 274299 c3d4f8b405ee21b5c0676aee793a1a7d ""
-  "figures//vehicle_density.png" 1746021732 118374 62fea46e3545e680e49f0265a163eae1 ""
+  "elsarticle-template-num.aux" 1761473991 9180 e59655df1c555d4c44f1acaa83d176bb "pdflatex"
+  "elsarticle-template-num.bbl" 1761473985 14648 8835396e6ea9dc21f61a87197b503868 "bibtex elsarticle-template-num"
+  "elsarticle-template-num.spl" 1761473986 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "elsarticle-template-num.tex" 1761473967 71934 aaea1332c9acf0d39d49ff6e61f20885 ""
+  "figures//Figure1.jpeg" 1746610657 320893 35c854627b493005f5a5c67f14314c4e ""
+  "figures//Figure2.jpeg" 1745502592 665446 a0d3f9010fdf6864e40782033aca957c ""
+  "figures//Figure3.jpeg" 1760704934 466589 7601f50d049680e4a83f11fc0c8913a0 ""
+  "figures//Figure4.jpeg" 1760704958 427653 36c69443dcdf6b8f99e89175d0085c3b ""
+  "figures//Figure5.jpeg" 1760792395 295863 21691713a78575af258dc245e8ee4300 ""
+  "figures//Figure6.jpeg" 1760792550 123567 1f2cac75c599b00f3f70e01ac03931c5 ""
+  "figures//Figure7.jpeg" 1760704219 239880 e9c28a2e510583f9b36adcc3ad7cfbd8 ""
+  "figures//Figure8.jpeg" 1760704513 225380 1522a3778975e20f61df19b7c036cfed ""
   (generated)
   "elsarticle-template-num.aux"
   "elsarticle-template-num.log"

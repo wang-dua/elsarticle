@@ -4,45 +4,45 @@ The top-level auxiliary file: elsarticle-template-num.aux
 The style file: elsarticle-num.bst
 Database file #1: bib.bib
 Warning--empty year in DavidGuy-22
-You've used 38 entries,
+You've used 41 entries,
             2952 wiz_defined-function locations,
-            967 strings with 15523 characters,
-and the built_in function-call counts, 13891 in all, are:
-= -- 1381
-> -- 599
+            987 strings with 16282 characters,
+and the built_in function-call counts, 14905 in all, are:
+= -- 1466
+> -- 656
 < -- 0
-+ -- 225
-- -- 187
-* -- 1245
-:= -- 1954
-add.period$ -- 71
-call.type$ -- 38
-change.case$ -- 71
++ -- 246
+- -- 205
+* -- 1339
+:= -- 2102
+add.period$ -- 75
+call.type$ -- 41
+change.case$ -- 74
 chr.to.int$ -- 0
-cite$ -- 39
-duplicate$ -- 331
-empty$ -- 1351
-format.name$ -- 224
-if$ -- 3472
+cite$ -- 42
+duplicate$ -- 355
+empty$ -- 1448
+format.name$ -- 245
+if$ -- 3717
 int.to.chr$ -- 0
-int.to.str$ -- 38
-missing$ -- 33
-newline$ -- 155
-num.names$ -- 38
-pop$ -- 150
+int.to.str$ -- 41
+missing$ -- 36
+newline$ -- 165
+num.names$ -- 41
+pop$ -- 166
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 811
+skip$ -- 869
 stack$ -- 0
-substring$ -- 858
-swap$ -- 103
+substring$ -- 912
+swap$ -- 112
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 67
-width$ -- 40
-write$ -- 408
+while$ -- 73
+width$ -- 43
+write$ -- 434
 (There was 1 warning)
