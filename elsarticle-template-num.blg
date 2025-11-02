@@ -3,46 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: elsarticle-template-num.aux
 The style file: elsarticle-num.bst
 Database file #1: bib.bib
-Warning--empty year in DavidGuy-22
-You've used 41 entries,
+You've used 36 entries,
             2952 wiz_defined-function locations,
-            987 strings with 16282 characters,
-and the built_in function-call counts, 14905 in all, are:
-= -- 1466
-> -- 656
-< -- 0
-+ -- 246
-- -- 205
-* -- 1339
-:= -- 2102
-add.period$ -- 75
-call.type$ -- 41
-change.case$ -- 74
+            935 strings with 14309 characters,
+and the built_in function-call counts, 13703 in all, are:
+= -- 1328
+> -- 561
+< -- 4
++ -- 211
+- -- 175
+* -- 1232
+:= -- 1893
+add.period$ -- 67
+call.type$ -- 36
+change.case$ -- 36
 chr.to.int$ -- 0
-cite$ -- 42
-duplicate$ -- 355
-empty$ -- 1448
-format.name$ -- 245
-if$ -- 3717
+cite$ -- 36
+duplicate$ -- 334
+empty$ -- 1371
+format.name$ -- 211
+if$ -- 3357
 int.to.chr$ -- 0
-int.to.str$ -- 41
+int.to.str$ -- 36
 missing$ -- 36
-newline$ -- 165
-num.names$ -- 41
-pop$ -- 166
+newline$ -- 147
+num.names$ -- 36
+pop$ -- 179
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 869
+skip$ -- 766
 stack$ -- 0
-substring$ -- 912
-swap$ -- 112
-text.length$ -- 0
+substring$ -- 1014
+swap$ -- 128
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 73
-width$ -- 43
-write$ -- 434
-(There was 1 warning)
+warning$ -- 0
+while$ -- 105
+width$ -- 38
+write$ -- 361

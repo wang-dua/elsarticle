@@ -5,161 +5,143 @@
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
 
-\bibitem{Xing-1}
-L.~Xing, Reliability in internet of things: Current status and future perspectives, IEEE INTERNET OF THINGS JOURNAL 7~(8) (2020) 6704--6721, 2020-08-01 Review.
-\newblock \href {https://doi.org/10.1109/JIOT.2020.2993216} {\path{doi:10.1109/JIOT.2020.2993216}}.
-
 \bibitem{TalebkhahSali-2}
-M.~Talebkhah, A.~Sali, V.~Khodamoradi, T.~Khodadadi, M.~Gordan, Task offloading for edge-iov networks in the industry 4.0 era and beyond: A high-level view, ENGINEERING SCIENCE AND TECHNOLOGY-AN INTERNATIONAL JOURNAL-JESTECH 54, 2024-06-15 Review (2024).
+M.~Talebkhah, A.~Sali, V.~Khodamoradi, T.~Khodadadi, M.~Gordan, {Task offloading for edge-IoV networks in the Industry 4.0 era and beyond: A high-level view}, Engineering Science and Technology 54 (2024) 101699.
 \newblock \href {https://doi.org/10.1016/j.jestch.2024.101699} {\path{doi:10.1016/j.jestch.2024.101699}}.
 
-\bibitem{WaheedShah-3}
-A.~Waheed, M.~A. Shah, S.~M. Mohsin, A.~Khan, C.~Maple, S.~Aslam, S.~Shamshirband, A comprehensive review of computing paradigms, enabling computation offloading and task execution in vehicular networks, IEEE ACCESS 10 (2022) 3580--3600, 2022-01-19 Review.
-\newblock \href {https://doi.org/10.1109/ACCESS.2021.3138219} {\path{doi:10.1109/ACCESS.2021.3138219}}.
-
-\bibitem{LiuChen-5}
-L.~Liu, C.~Chen, Q.~Q. Pei, S.~Maharjan, Y.~Zhang, Vehicular edge computing and networking: A survey, MOBILE NETWORKS \& APPLICATIONS 26~(3) (2021) 1145--1168, times Cited in Web of Science Core Collection: 292 Total Times Cited: 312 Cited Reference Count: 142 ER -.
-\newblock \href {https://doi.org/10.1007/s11036-020-01624-1} {\path{doi:10.1007/s11036-020-01624-1}}.
-
-\bibitem{WuWang-6}
-H.~H. Wu, B.~B. Wang, H.~H. Ma, X.~H. Zhang, L.~Xing, Multiagent federated deep-reinforcement-learning-based collaborative caching strategy for vehicular edge networks, IEEE INTERNET OF THINGS JOURNAL 11~(14) (2024) 25198--25212, times Cited in Web of Science Core Collection: 1 Total Times Cited: 1 Cited Reference Count: 37 ER -.
-\newblock \href {https://doi.org/10.1109/JIOT.2024.3392329} {\path{doi:10.1109/JIOT.2024.3392329}}.
+\bibitem{Wuhaixing}
+H.~Wu, J.~Zheng, S.~Jin, {Adaptive computation offloading scheme based on a collaborative architecture with heterogeneous MEC nodes: A DRL approach}, IEEE Transactions on Mobile Computing 24~(11) (2025) {12692--12710}.
+\newblock \href {https://doi.org/10.1109/TMC.2025.3586623} {\path{doi:10.1109/TMC.2025.3586623}}.
 
 \bibitem{M.S.-7}
-L.~M., H.~S., G.~Z., T.~Y., H.~L., D.~H., Allocation of computation-intensive graph jobs over vehicular clouds in iov, IEEE Internet of Things Journal 7~(1) (2020) 311--324, iEEE Internet of Things Journal.
+M.~Liwang, S.~Hosseinalipour, Z.~Gao, Y.~Tang, L.~Huang, H.~Dai, {Allocation of computation-intensive graph jobs over vehicular clouds in IoV}, IEEE Internet of Things Journal 7~(1) (2020) 311--324.
 \newblock \href {https://doi.org/10.1109/JIOT.2019.2949602} {\path{doi:10.1109/JIOT.2019.2949602}}.
 
 \bibitem{Reiss-MirzaeiGhobaei-Arani-13}
-M.~Reiss-Mirzaei, M.~Ghobaei-Arani, L.~Esmaeili, A review on the edge caching mechanisms in the mobile edge computing: A social-aware perspective, INTERNET OF THINGS 22, 2023-09-02 Review (2023).
+M.~Reiss-Mirzaei, M.~Ghobaei-Arani, L.~Esmaeili, {A review on the edge caching mechanisms in the mobile edge computing: A social-aware perspective}, Internet of Things 22 (2023) 100690.
 \newblock \href {https://doi.org/10.1016/j.iot.2023.100690} {\path{doi:10.1016/j.iot.2023.100690}}.
 
-\bibitem{KhanMustafa-14}
-Y.~Khan, S.~Mustafa, R.~W. Ahmad, T.~Maqsood, F.~Rehman, J.~Ali, J.~J. P.~C. Rodrigues, Content caching in mobile edge computing: a survey, CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS 27~(7) (2024) 8817--8864, 2024-05-30 Review.
-\newblock \href {https://doi.org/10.1007/s10586-024-04459-7} {\path{doi:10.1007/s10586-024-04459-7}}.
-
 \bibitem{YanLi-17}
-H.~Yan, H.~Li, X.~Xu, M.~Bilal, Uav-enhanced service caching for iot systems in extreme environments, IEEE INTERNET OF THINGS JOURNAL 11~(16) (2024) 26741--26750, 2024-08-23 Article.
+H.~Yan, H.~Li, X.~Xu, M.~Bilal, {UAV-enhanced service caching for IoT systems in extreme environments}, IEEE Internet of Things Journal 11~(16) (2024) 26741--26750.
 \newblock \href {https://doi.org/10.1109/JIOT.2023.3288200} {\path{doi:10.1109/JIOT.2023.3288200}}.
 
 \bibitem{RenChen-19}
-X.~Ren, X.~Chen, L.~Jiao, X.~Dai, Z.~Dong, IEEE, Joint optimization of trajectory, caching and task offloading for multi-tier uav mec networks, 2024-09-21 ER - Proceedings Paper (2024-01-01 2024).
-
-\bibitem{MaoYou-12}
-Y.~Y. Mao, C.~S. You, J.~Zhang, K.~B. Huang, K.~B. Letaief, A survey on mobile edge computing: The communication perspective, IEEE COMMUNICATIONS SURVEYS AND TUTORIALS 19~(4) (2017) 2322--2358, times Cited in Web of Science Core Collection: 2049 Total Times Cited: 2083 Cited Reference Count: 237 ER -.
-\newblock \href {https://doi.org/10.1109/COMST.2017.2745201} {\path{doi:10.1109/COMST.2017.2745201}}.
+X.~Ren, X.~Chen, L.~Jiao, X.~Dai, Z.~Dong, {Joint optimization of trajectory, caching and task offloading for multi-tier UAV MEC networks}, in: IEEE Wireless Communications and Networking Conference (WCNC), IEEE, 2024, pp. 1--6.
+\newblock \href {https://doi.org/10.1109/WCNC57260.2024.10570765} {\path{doi:10.1109/WCNC57260.2024.10570765}}.
 
 \bibitem{ShiCao-8}
-W.~S. Shi, J.~Cao, Q.~Zhang, Y.~Li, L.~Y. Xu, Edge computing: Vision and challenges, IEEE INTERNET OF THINGS JOURNAL 3~(5) (2016) 637--646, times Cited in Web of Science Core Collection: 3812 Total Times Cited: 4048 Cited Reference Count: 32 ER -.
+W.~Shi, J.~Cao, Q.~Zhang, Y.~Li, L.~Xu, {Edge computing: Vision and challenges}, IEEE Internet of Things Journal 3~(5) (2016) 637--646.
 \newblock \href {https://doi.org/10.1109/JIOT.2016.2579198} {\path{doi:10.1109/JIOT.2016.2579198}}.
 
 \bibitem{Raeisi-VarzanehDakkak-23}
-M.~Raeisi-Varzaneh, O.~Dakkak, A.~Habbal, B.~S. Kim, Resource scheduling in edge computing: Architecture, taxonomy, open issues and future research directions, IEEE ACCESS 11 (2023) 25329--25350, times Cited in Web of Science Core Collection: 33 Total Times Cited: 33 Cited Reference Count: 186 ER -.
+M.~Raeisi-Varzaneh, O.~Dakkak, A.~Habbal, B.-S. Kim, {Resource scheduling in edge computing: Architecture, taxonomy, open issues and future research directions}, IEEE Access 11 (2023) 25329--25350.
 \newblock \href {https://doi.org/10.1109/ACCESS.2023.3256522} {\path{doi:10.1109/ACCESS.2023.3256522}}.
 
 \bibitem{LinHuang-24}
-J.~Lin, L.~Huang, H.~Zhang, X.~Yang, P.~Zhao, A novel lyapunov based dynamic resource allocation for uavs-assisted edge computing, COMPUTER NETWORKS 205, 2022-04-27 Article (2022).
+J.~Lin, L.~Huang, H.~Zhang, X.~Yang, P.~Zhao, {A novel Lyapunov-based dynamic resource allocation for UAVs-assisted edge computing}, Computer Networks 205 (2022) 108710.
 \newblock \href {https://doi.org/10.1016/j.comnet.2021.108710} {\path{doi:10.1016/j.comnet.2021.108710}}.
 
 \bibitem{L-29}
-Z.~L., S.~Y., C.~Z., R.~S., Communications-caching-computing resource allocation for bidirectional data computation in mobile edge networks, IEEE Transactions on Communications 69~(3) (2021) 1496--1509, iEEE Transactions on Communications.
+L.~Zhang, Y.~Sun, Z.~Chen, S.~Roy, {Communications-caching-computing resource allocation for bidirectional data computation in mobile edge networks}, IEEE Transactions on Communications 69~(3) (2021) 1496--1509.
 \newblock \href {https://doi.org/10.1109/TCOMM.2020.3041343} {\path{doi:10.1109/TCOMM.2020.3041343}}.
 
 \bibitem{Wen}
-M.~Wen, X.~Liu, X.~Ning, C.~Liu, X.~Chen, J.~Nian, L.~Cheng, Deep reinforcement learning for energy-efficient workflow scheduling in edge computing, Computer Networks (2025) 111790\href {https://doi.org/https://doi.org/10.1016/j.comnet.2025.111790} {\path{doi:https://doi.org/10.1016/j.comnet.2025.111790}}.
+M.~Wen, X.~Liu, X.~Ning, C.~Liu, X.~Chen, J.~Nian, L.~Cheng, {Deep reinforcement learning for energy-efficient workflow scheduling in edge computing}, Computer Networks (2025) 111790\href {https://doi.org/10.1016/j.comnet.2025.111790} {\path{doi:10.1016/j.comnet.2025.111790}}.
 
 \bibitem{ZhangXia-25}
-R.~Zhang, H.~Xia, Z.~J. Chen, Z.~Kang, K.~Wang, W.~Gao, Computation cost-driven offloading strategy based on reinforcement learning for consumer devices, IEEE TRANSACTIONS ON CONSUMER ELECTRONICS 70~(1) (2024) 4120--4131.
+R.~Zhang, H.~Xia, Z.~Chen, Z.~Kang, K.~Wang, W.~Gao, {Computation cost-driven offloading strategy based on reinforcement learning for consumer devices}, IEEE Transactions on Consumer Electronics 70~(1) (2024) 4120--4131.
 \newblock \href {https://doi.org/10.1109/TCE.2024.3357459} {\path{doi:10.1109/TCE.2024.3357459}}.
 
 \bibitem{ZengWang-26}
-C.~Zeng, X.~W. Wang, R.~F. Zeng, Y.~Li, J.~Z. Shi, M.~Huang, Joint optimization of multi-dimensional resource allocation and task offloading for qoe enhancement in cloud-edge-end collaboration, FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE 155 (2024) 121--131.
+C.~Zeng, X.~Wang, R.~Zeng, Y.~Li, J.~Shi, M.~Huang, {Joint optimization of multi-dimensional resource allocation and task offloading for QoE enhancement in cloud-edge-end collaboration}, Future Generation Computer Systems 155 (2024) 121--131.
 \newblock \href {https://doi.org/10.1016/j.future.2024.01.025} {\path{doi:10.1016/j.future.2024.01.025}}.
 
 \bibitem{XieFang-27}
-R.~T. Xie, J.~H. Fang, J.~M. Yao, X.~H. Jia, K.~S. Wu, Sharing-aware task offloading of remote rendering for interactive applications in mobile edge computing, IEEE TRANSACTIONS ON CLOUD COMPUTING 11~(1) (2023) 997--1010.
+R.~Xie, J.~Fang, J.~Yao, X.~Jia, K.~Wu, {Sharing-aware task offloading of remote rendering for interactive applications in mobile edge computing}, IEEE Transactions on Cloud Computing 11~(1) (2023) 997--1010.
 \newblock \href {https://doi.org/10.1109/TCC.2021.3127345} {\path{doi:10.1109/TCC.2021.3127345}}.
 
 \bibitem{TangWong-28}
-M.~Tang, V.~Wong, Deep reinforcement learning for task offloading in mobile edge computing systems, IEEE TRANSACTIONS ON MOBILE COMPUTING 21~(6) (2022) 1985--1997.
+M.~Tang, V.~W.~S. Wong, {Deep reinforcement learning for task offloading in mobile edge computing systems}, IEEE Transactions on Mobile Computing 21~(6) (2022) 1985--1997.
 \newblock \href {https://doi.org/10.1109/TMC.2020.3036871} {\path{doi:10.1109/TMC.2020.3036871}}.
 
 \bibitem{BounairaAlioua-30}
-S.~Bounaira, A.~Alioua, I.~Souici, Blockchain-enabled trust management for secure content caching in mobile edge computing using deep reinforcement learning, INTERNET OF THINGS 25, 2024-03-26 Article (2024).
+S.~Bounaira, A.~Alioua, I.~Souici, {Blockchain-enabled trust management for secure content caching in mobile edge computing using deep reinforcement learning}, Internet of Things 25 (2024) 101081.
 \newblock \href {https://doi.org/10.1016/j.iot.2024.101081} {\path{doi:10.1016/j.iot.2024.101081}}.
 
 \bibitem{ZhouChen-31}
-J.~Zhou, F.~Chen, Q.~He, X.~Xia, R.~Wang, Y.~Xiang, Data caching optimization with fairness in mobile edge computing, IEEE TRANSACTIONS ON SERVICES COMPUTING 16~(3) (2023) 1750--1762, 2023-07-27 Article.
+J.~Zhou, F.~Chen, Q.~He, X.~Xia, R.~Wang, Y.~Xiang, {Data caching optimization with fairness in mobile edge computing}, IEEE Transactions on Services Computing 16~(3) (2023) 1750--1762.
 \newblock \href {https://doi.org/10.1109/TSC.2022.3197881} {\path{doi:10.1109/TSC.2022.3197881}}.
 
 \bibitem{Tang}
-C.~Tang, Y.~Ding, S.~Xiao, H.~Wu, R.~Li, Joint optimization of service caching task offloading and resource allocation in cloud-edge cooperative network, 2025-02-27 ER - Proceedings Paper (2024-01-01 2024).
+C.~Tang, Y.~Ding, S.~Xiao, H.~Wu, R.~Li, {Joint optimization of service caching task offloading and resource allocation in cloud-edge cooperative network}, in: IEEE International Conference on Communications (ICC), IEEE, 2024, pp. 4036--4041.
+\newblock \href {https://doi.org/10.1109/ICC51166.2024.10622677} {\path{doi:10.1109/ICC51166.2024.10622677}}.
 
 \bibitem{MaoHe-32}
-Y.~Mao, B.~He, S.~Zhou, C.~Ma, Z.~Wang, IEEE, Collaborative edge caching: a meta reinforcement learning approach with edge sampling, 2023-11-05 ER - Proceedings Paper (2023-01-01 2023).
+Y.~Mao, B.~He, S.~Zhou, C.~Ma, Z.~Wang, {Collaborative edge caching: A meta reinforcement learning approach with edge sampling}, in: IEEE International Conference on Multimedia and Expo (ICME), IEEE, 2023, pp. 972--977.
 
 \bibitem{ZhaoNakhai-33}
-M.~Zhao, M.~R. Nakhai, IEEE, Deep reinforcement learning based two-phase proactive caching for collaborative edge networks, 2024-09-21 ER - Proceedings Paper (2024-01-01 2024).
+M.~Zhao, M.~R. Nakhai, {Deep reinforcement learning based two-phase proactive caching for collaborative edge networks}, in: IEEE Wireless Communications and Networking Conference (WCNC), IEEE, 2024, pp. 1--6.
 
 \bibitem{KongDuan-10}
-X.~J. Kong, G.~H. Duan, M.~L. Hou, G.~J. Shen, H.~Wang, X.~R. Yan, M.~Collotta, Deep reinforcement learning-based energy-efficient edge computing for internet of vehicles, IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS 18~(9) (2022) 6308--6316, times Cited in Web of Science Core Collection: 64 Total Times Cited: 65 Cited Reference Count: 30 ER -.
+X.~Kong, G.~Duan, M.~Hou, G.~Shen, H.~Wang, X.~Yan, M.~Collotta, {Deep reinforcement learning-based energy-efficient edge computing for Internet of Vehicles}, IEEE Transactions on Industrial Informatics 18~(9) (2022) 6308--6316.
 \newblock \href {https://doi.org/10.1109/TII.2022.3155162} {\path{doi:10.1109/TII.2022.3155162}}.
 
 \bibitem{Chunlin}
-C.~Li, K.~Xiao, J.~Xu, W.~Ji, Parked-vehicle-assisted task offloading in vehicular edge computing: A stackelberg game approach, Computer Networks (2025) 111800\href {https://doi.org/https://doi.org/10.1016/j.comnet.2025.111800} {\path{doi:https://doi.org/10.1016/j.comnet.2025.111800}}.
+C.~Li, K.~Xiao, J.~Xu, W.~Ji, {Parked-vehicle-assisted task offloading in vehicular edge computing: A Stackelberg game approach}, Computer Networks (2025) 111800\href {https://doi.org/10.1016/j.comnet.2025.111800} {\path{doi:10.1016/j.comnet.2025.111800}}.
 
 \bibitem{ChenBhargava-9}
-C.~L. Chen, B.~Bhargava, V.~Aggarwal, B.~Tonshal, A.~Gopal, A hybrid deep reinforcement learning approach for jointly optimizing offloading and resource management in vehicular networks, IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY 73~(2) (2024) 2456--2467, times Cited in Web of Science Core Collection: 0 Total Times Cited: 0 Cited Reference Count: 30 ER -.
+C.-L. Chen, B.~Bhargava, V.~Aggarwal, B.~Tonshal, A.~Gopal, {A hybrid deep reinforcement learning approach for jointly optimizing offloading and resource management in vehicular networks}, IEEE Transactions on Vehicular Technology 73~(2) (2024) 2456--2467.
 \newblock \href {https://doi.org/10.1109/TVT.2023.3312340} {\path{doi:10.1109/TVT.2023.3312340}}.
 
 \bibitem{WuFan-15}
-H.~Wu, Y.~Fan, J.~Jin, H.~Ma, L.~Xing, Social-aware decentralized cooperative caching for internet of vehicles, IEEE INTERNET OF THINGS JOURNAL 10~(16) (2023) 14834--14845, 2023-08-26 Article.
+H.~Wu, Y.~Fan, J.~Jin, H.~Ma, L.~Xing, {Social-aware decentralized cooperative caching for Internet of Vehicles}, IEEE Internet of Things Journal 10~(16) (2023) 14834--14845.
 \newblock \href {https://doi.org/10.1109/JIOT.2022.3229009} {\path{doi:10.1109/JIOT.2022.3229009}}.
 
 \bibitem{WuWang-16}
-H.~Wu, B.~Wang, H.~Ma, X.~Zhang, L.~Xing, Multiagent federated deep-reinforcement-learning-based collaborative caching strategy for vehicular edge networks, IEEE INTERNET OF THINGS JOURNAL 11~(14) (2024) 25198--25212, 2024-07-28 Article.
+H.~Wu, B.~Wang, H.~Ma, X.~Zhang, L.~Xing, {Multiagent federated deep-reinforcement-learning-based collaborative caching strategy for vehicular edge networks}, IEEE Internet of Things Journal 11~(14) (2024) 25198--25212.
 \newblock \href {https://doi.org/10.1109/JIOT.2024.3392329} {\path{doi:10.1109/JIOT.2024.3392329}}.
 
 \bibitem{YuGong-11}
-S.~Yu, X.~Gong, Q.~Shi, X.~Wang, X.~Chen, Ec-sagins: Edge-computing-enhanced space-air-ground-integrated networks for internet of vehicles, IEEE internet of things journal 9~(8) (2022) 5742--5754, journal Article http://www.syndetics.com/index.aspx?isbn=/sc.gif\& issn=2327-4662\& client=summontrial.
+S.~Yu, X.~Gong, Q.~Shi, X.~Wang, X.~Chen, {EC-SAGINs: Edge-computing-enhanced space-air-ground-integrated networks for Internet of Vehicles}, IEEE Internet of Things Journal 9~(8) (2022) 5742--5754.
 \newblock \href {https://doi.org/10.1109/JIOT.2021.3052542} {\path{doi:10.1109/JIOT.2021.3052542}}.
 
 \bibitem{YuWu-35}
-G.~Yu, J.~Wu, R.~Liu, Y.~He, Z.~Chen, J.~Pan, Joint cooperative caching and uav trajectory optimization based on mobility prediction in the internet of connected vehicles, IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS 25~(11) (2024) 17392--17406, 2024-08-22 Article.
+G.~Yu, J.~Wu, R.~Liu, Y.~He, Z.~Chen, J.~Pan, {Joint cooperative caching and UAV trajectory optimization based on mobility prediction in the Internet of Connected Vehicles}, IEEE Transactions on Intelligent Transportation Systems 25~(11) (2024) 17392--17406.
 \newblock \href {https://doi.org/10.1109/TITS.2024.3429305} {\path{doi:10.1109/TITS.2024.3429305}}.
 
 \bibitem{liuzhixin}
-Z.~Liu, L.~Gao, Z.~Ma, J.~Su, F.~Li, Y.~Yuan, X.~Guan, Joint task offloading and resource allocation scheme with uav assistance in vehicle edge computing networks, Computer Networks 273 (2025) 111746.
-\newblock \href {https://doi.org/https://doi.org/10.1016/j.comnet.2025.111746} {\path{doi:https://doi.org/10.1016/j.comnet.2025.111746}}.
+Z.~Liu, L.~Gao, Z.~Ma, J.~Su, F.~Li, Y.~Yuan, X.~Guan, {Joint task offloading and resource allocation scheme with UAV assistance in vehicle edge computing networks}, Computer Networks 273 (2025) 111746.
+\newblock \href {https://doi.org/10.1016/j.comnet.2025.111746} {\path{doi:10.1016/j.comnet.2025.111746}}.
 
 \bibitem{XueLiu-18}
-Z.~Xue, C.~Liu, C.~L. Liao, G.~J. Han, Z.~G. Sheng, Joint service caching and computation offloading scheme based on deep reinforcement learning in vehicular edge computing systems, IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY 72~(5) (2023) 6709--6722, times Cited in Web of Science Core Collection: 22 Total Times Cited: 22 Cited Reference Count: 41 ER -.
+Z.~Xue, C.~Liu, C.~Liao, G.~Han, Z.~Sheng, {Joint service caching and computation offloading scheme based on deep reinforcement learning in vehicular edge computing systems}, IEEE Transactions on Vehicular Technology 72~(5) (2023) 6709--6722.
 \newblock \href {https://doi.org/10.1109/TVT.2023.3234336} {\path{doi:10.1109/TVT.2023.3234336}}.
 
 \bibitem{L.Z.-4}
-L.~L., C.~Z., Joint optimization of multiuser computation offloading and wireless-caching resource allocation with linearly related requests in vehicular edge computing system, IEEE Internet of Things Journal 11~(1) (2024) 1534--1547, iEEE Internet of Things Journal.
+L.~Liu, Z.~Chen, {Joint optimization of multiuser computation offloading and wireless-caching resource allocation with linearly related requests in a vehicular edge computing system}, IEEE Internet of Things Journal 11~(1) (2024) 1534--1547.
 \newblock \href {https://doi.org/10.1109/JIOT.2023.3289994} {\path{doi:10.1109/JIOT.2023.3289994}}.
 
 \bibitem{ChengZhai-36}
-C.~Cheng, L.~Zhai, X.~Zhu, Y.~Jia, Y.~Li, Dynamic task offloading and service caching based on game theory in vehicular edge computing networks, COMPUTER COMMUNICATIONS 224 (2024) 29--41, 2024-06-25 Article.
+C.~Cheng, L.~Zhai, X.~Zhu, Y.~Jia, Y.~Li, {Dynamic task offloading and service caching based on game theory in vehicular edge computing networks}, Computer Communications 224 (2024) 29--41.
 \newblock \href {https://doi.org/10.1016/j.comcom.2024.05.020} {\path{doi:10.1016/j.comcom.2024.05.020}}.
 
 \bibitem{LingZhang-21}
-C.~Ling, W.~Zhang, Q.~Fan, Z.~Feng, J.~Wang, R.~Yadav, D.~Wang, Cooperative service caching in vehicular edge computing networks based on transportation correlation analysis, IEEE INTERNET OF THINGS JOURNAL 11~(12) (2024) 22754--22767, 2024-06-27 Article.
+C.~Ling, W.~Zhang, Q.~Fan, Z.~Feng, J.~Wang, R.~Yadav, D.~Wang, {Cooperative service caching in vehicular edge computing networks based on transportation correlation analysis}, IEEE Internet of Things Journal 11~(12) (2024) 22754--22767.
 \newblock \href {https://doi.org/10.1109/JIOT.2024.3382723} {\path{doi:10.1109/JIOT.2024.3382723}}.
 
 \bibitem{JJWu}
-W.~J., W.~J., C.~Q., Y.~Z., Z.~P., W.~X., F.~C., Resource allocation for delay-sensitive vehicle-to-multi-edges (v2es) communications in vehicular networks: A multi-agent deep reinforcement learning approach, IEEE Transactions on Network Science and Engineering 8~(2) (2021) 1873--1886, iEEE Transactions on Network Science and Engineering.
+J.~Wu, J.~Wang, Q.~Chen, Z.~Yuan, P.~Zhou, X.~Wang, C.~Fu, {Resource allocation for delay-sensitive vehicle-to-multi-edges (V2Es) communications in vehicular networks: A multi-agent deep reinforcement learning approach}, IEEE Transactions on Network Science and Engineering 8~(2) (2021) 1873--1886.
 \newblock \href {https://doi.org/10.1109/TNSE.2021.3075530} {\path{doi:10.1109/TNSE.2021.3075530}}.
 
 \bibitem{DavidGuy-22}
-S.~David, L.~Guy, H.~Nicolas, D.~Thomas, W.~Daan, R.~Martin, Deterministic policy gradient algorithms.
+D.~Silver, G.~Lever, N.~Heess, T.~Degris, D.~Wierstra, M.~Riedmiller, {Deterministic policy gradient algorithms}, Proceedings of Machine Learning Research 32 (2014) 387--395.
 
 \bibitem{SB}
-B.~S., H.~L., J.~A.~Z. Y., Joint optimization of service caching placement and computation offloading in mobile edge computing systems, IEEE Transactions on Wireless Communications 19~(7) (2020) 4947--4963, iEEE Transactions on Wireless Communications.
+S.~Bi, L.~Huang, Y.-J.~A. Zhang, {Joint optimization of service caching placement and computation offloading in mobile edge computing systems}, IEEE Transactions on Wireless Communications 19~(7) (2020) 4947--4963.
 \newblock \href {https://doi.org/10.1109/TWC.2020.2988386} {\path{doi:10.1109/TWC.2020.2988386}}.
 
 \bibitem{GZ}
-Z.~G., Z.~S., Z.~W., S.~Z., W.~L., Joint service caching, computation offloading and resource allocation in mobile edge computing systems, IEEE Transactions on Wireless Communications 20~(8) (2021) 5288--5300, iEEE Transactions on Wireless Communications.
+G.~Zhang, S.~Zhang, W.~Zhang, Z.~Shen, L.~Wang, {Joint service caching, computation offloading and resource allocation in mobile edge computing systems}, IEEE Transactions on Wireless Communications 20~(8) (2021) 5288--5300.
 \newblock \href {https://doi.org/10.1109/TWC.2021.3066650} {\path{doi:10.1109/TWC.2021.3066650}}.
 
 \end{thebibliography}
