@@ -144,4 +144,16 @@ S.~Bi, L.~Huang, Y.-J.~A. Zhang, {Joint optimization of service caching placemen
 G.~Zhang, S.~Zhang, W.~Zhang, Z.~Shen, L.~Wang, {Joint service caching, computation offloading and resource allocation in mobile edge computing systems}, IEEE Transactions on Wireless Communications 20~(8) (2021) 5288--5300.
 \newblock \href {https://doi.org/10.1109/TWC.2021.3066650} {\path{doi:10.1109/TWC.2021.3066650}}.
 
+\bibitem{Thuong-NCE}
+T.~C. Lam, N.-S. Vo, V.~V. Lam, T.~Hoang, M.-P. Bui, T.~Q. Duong, Multi-rate selection and power allocation assisted probabilistic edge caching for cooperative video transmission in dense d2d networks, Alexandria Engineering Journal 126 (2025) 555--564.
+\newblock \href {https://doi.org/10.1016/j.aej.2025.04.057} {\path{doi:10.1016/j.aej.2025.04.057}}.
+
+\bibitem{Liu-LRU}
+G.~Liu, Z.~Qian, G.~Li, Proactive retention-aware online video caching scheme in mobile edge computing, Computer Communications 242 (2025) 108313.
+\newblock \href {https://doi.org/10.1016/j.comcom.2025.108313} {\path{doi:10.1016/j.comcom.2025.108313}}.
+
+\bibitem{Pedro-RSCCO}
+P.~Benedicte, C.~Hernandez, J.~Abella, F.~J. Cazorla, Locality-aware cache random replacement policies, Journal of Systems Architecture 93 (2019) 48--61.
+\newblock \href {https://doi.org/10.1016/j.sysarc.2018.12.007} {\path{doi:10.1016/j.sysarc.2018.12.007}}.
+
 \end{thebibliography}
