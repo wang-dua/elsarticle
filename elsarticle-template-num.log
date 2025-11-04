@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  4 NOV 2025 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  4 NOV 2025 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,13 +851,13 @@ Underfull \hbox (badness 1472) in paragraph at lines 129--131
 Here is how much of TeX's memory you used:
  6453 strings out of 476025
  96021 string characters out of 5789523
- 1882382 words of memory out of 5000000
+ 1881382 words of memory out of 5000000
  26750 multiletter control sequences out of 15000+600000
  564087 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,17n,76p,1453b,618s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxbmi.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on elsarticle-template-num.pdf (13 pages, 2472864 bytes).
+Output written on elsarticle-template-num.pdf (13 pages, 2473306 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
