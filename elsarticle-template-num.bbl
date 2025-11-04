@@ -13,9 +13,9 @@ M.~Talebkhah, A.~Sali, V.~Khodamoradi, T.~Khodadadi, M.~Gordan, {Task offloading
 H.~Wu, J.~Zheng, S.~Jin, {Adaptive computation offloading scheme based on a collaborative architecture with heterogeneous MEC nodes: A DRL approach}, IEEE Transactions on Mobile Computing 24~(11) (2025) {12692--12710}.
 \newblock \href {https://doi.org/10.1109/TMC.2025.3586623} {\path{doi:10.1109/TMC.2025.3586623}}.
 
-\bibitem{M.S.-7}
-M.~Liwang, S.~Hosseinalipour, Z.~Gao, Y.~Tang, L.~Huang, H.~Dai, {Allocation of computation-intensive graph jobs over vehicular clouds in IoV}, IEEE Internet of Things Journal 7~(1) (2020) 311--324.
-\newblock \href {https://doi.org/10.1109/JIOT.2019.2949602} {\path{doi:10.1109/JIOT.2019.2949602}}.
+\bibitem{Zhu-VEC}
+L.~Zhu, B.~Li, L.~Tan, {Vehicular edge cloud computing content caching optimization solution based on content prediction and deep reinforcement learning}, Ad Hoc Networks 165 (2024) 103643.
+\newblock \href {https://doi.org/10.1016/j.adhoc.2024.103643} {\path{doi:10.1016/j.adhoc.2024.103643}}.
 
 \bibitem{Reiss-MirzaeiGhobaei-Arani-13}
 M.~Reiss-Mirzaei, M.~Ghobaei-Arani, L.~Esmaeili, {A review on the edge caching mechanisms in the mobile edge computing: A social-aware perspective}, Internet of Things 22 (2023) 100690.
@@ -29,13 +29,17 @@ H.~Yan, H.~Li, X.~Xu, M.~Bilal, {UAV-enhanced service caching for IoT systems in
 X.~Ren, X.~Chen, L.~Jiao, X.~Dai, Z.~Dong, {Joint optimization of trajectory, caching and task offloading for multi-tier UAV MEC networks}, in: IEEE Wireless Communications and Networking Conference (WCNC), IEEE, 2024, pp. 1--6.
 \newblock \href {https://doi.org/10.1109/WCNC57260.2024.10570765} {\path{doi:10.1109/WCNC57260.2024.10570765}}.
 
+\bibitem{Bassant-servicecache}
+B.~Tolba, M.~Abo-Zahhad, M.~Elsabrouty, A.~Uchiyama, A.~H.~A. El-Malek, {Joint user association, service caching, and task offloading in multi-tier communication/multi-tier edge computing heterogeneous networks}, Ad Hoc Networks 160 (2024) 103500.
+\newblock \href {https://doi.org/10.1016/j.adhoc.2024.103500} {\path{doi:10.1016/j.adhoc.2024.103500}}.
+
 \bibitem{ShiCao-8}
 W.~Shi, J.~Cao, Q.~Zhang, Y.~Li, L.~Xu, {Edge computing: Vision and challenges}, IEEE Internet of Things Journal 3~(5) (2016) 637--646.
 \newblock \href {https://doi.org/10.1109/JIOT.2016.2579198} {\path{doi:10.1109/JIOT.2016.2579198}}.
 
-\bibitem{Raeisi-VarzanehDakkak-23}
-M.~Raeisi-Varzaneh, O.~Dakkak, A.~Habbal, B.-S. Kim, {Resource scheduling in edge computing: Architecture, taxonomy, open issues and future research directions}, IEEE Access 11 (2023) 25329--25350.
-\newblock \href {https://doi.org/10.1109/ACCESS.2023.3256522} {\path{doi:10.1109/ACCESS.2023.3256522}}.
+\bibitem{Douglas-MEC}
+D.~L. Moura, A.~L. Aquino, A.~A. Loureiro, {An edge computing and distributed ledger technology architecture for secure and efficient transportation}, Ad Hoc Networks 164 (2024) 103633.
+\newblock \href {https://doi.org/10.1016/j.adhoc.2024.103633} {\path{doi:10.1016/j.adhoc.2024.103633}}.
 
 \bibitem{LinHuang-24}
 J.~Lin, L.~Huang, H.~Zhang, X.~Yang, P.~Zhao, {A novel Lyapunov-based dynamic resource allocation for UAVs-assisted edge computing}, Computer Networks 205 (2022) 108710.
