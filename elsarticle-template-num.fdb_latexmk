@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex elsarticle-template-num"] 1762352547 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1762353099 0
+["bibtex elsarticle-template-num"] 1762417786 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1762420765 0
   "./bib.bib" 1762177216 17238 a4c439b969c75e64ac26ae3bd6adce2e ""
   "./elsarticle-num.bst" 1736419034 29462 3b2a1af2ce1e224a3b46ee048ffd4b98 ""
-  "elsarticle-template-num.aux" 1762353097 9457 be4a821d09927663ab67a354fbd3f24f "pdflatex"
+  "elsarticle-template-num.aux" 1762420764 9492 84648159ee71076ff0c099161acc5e9f "pdflatex"
   (generated)
   "elsarticle-template-num.bbl"
   "elsarticle-template-num.blg"
   (rewritten before read)
-["pdflatex"] 1762353091 "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1762353099 0
-  "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" 1762353090 70793 b231b7c6b4216be4cc10a801f7d2c741 ""
+["pdflatex"] 1762420757 "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1762420765 0
+  "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" 1762420756 72012 7e5c4c438c6a2e74c81c3c2d7a5a2763 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1701156385 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1701156599 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1701155809 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -54,6 +54,7 @@
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb" 1701158721 17531 c91f2d6943f51d7c46d6b7b9cedd50ba ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb" 1701158721 20336 69267d8a81bca8b24c9b42694a4a28f9 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1701158621 44729 fea0975e20ec51c992338362f05f1146 ""
+  "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1701158621 44656 0cbca70e0534538582128f6b54593cca ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1701158621 46026 687528a208fbfc1f00832bb96cccebbb ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1701158621 45458 504e2b06fa82109d168c7a0afb09e145 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/vf/public/txfonts/tcxr.vf" 1701158721 988 4f41b8c123e4537adb7f2dbb638d2981 ""
@@ -116,10 +117,10 @@
   "d:/SOFTWARE/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701159153 4662822 d9decf19d0957b84ba08b66e7f546f43 ""
   "d:/SOFTWARE/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701159324 7883613 ec33933a16a9d76c3288846bed18e78d ""
   "d:/SOFTWARE/texlive/2023/texmf.cnf" 1701159102 713 e69b156964470283e0530f5060668171 ""
-  "elsarticle-template-num.aux" 1762353097 9457 be4a821d09927663ab67a354fbd3f24f "pdflatex"
-  "elsarticle-template-num.bbl" 1762352548 13228 52967ba0fd3fd043743e184f89b183d3 "bibtex elsarticle-template-num"
-  "elsarticle-template-num.spl" 1762353092 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "elsarticle-template-num.tex" 1762353090 70793 b231b7c6b4216be4cc10a801f7d2c741 ""
+  "elsarticle-template-num.aux" 1762420764 9492 84648159ee71076ff0c099161acc5e9f "pdflatex"
+  "elsarticle-template-num.bbl" 1762417787 13228 52967ba0fd3fd043743e184f89b183d3 "bibtex elsarticle-template-num"
+  "elsarticle-template-num.spl" 1762420758 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "elsarticle-template-num.tex" 1762420756 72012 7e5c4c438c6a2e74c81c3c2d7a5a2763 ""
   "figures//Figure1.jpeg" 1746610657 320893 35c854627b493005f5a5c67f14314c4e ""
   "figures//Figure2.jpeg" 1745502592 665446 a0d3f9010fdf6864e40782033aca957c ""
   "figures//Figure3.jpeg" 1760704934 466589 7601f50d049680e4a83f11fc0c8913a0 ""
