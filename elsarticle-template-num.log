@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  6 NOV 2025 17:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.28)  7 NOV 2025 10:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -691,68 +691,65 @@ Overfull \hbox (1.90001pt too wide) has occurred while \output is active
 [1{d:/SOFTWARE/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-] [2]
-<figures//Figure1.jpeg, id=13, 475.17525pt x 372.1905pt>
+] [2] [3]
+<figures//Figure1.jpeg, id=18, 475.17525pt x 372.1905pt>
 File: figures//Figure1.jpeg Graphic file (type jpg)
 <use figures//Figure1.jpeg>
-Package pdftex.def Info: figures//Figure1.jpeg  used on input line 256.
+Package pdftex.def Info: figures//Figure1.jpeg  used on input line 259.
 (pdftex.def)             Requested size: 201.60077pt x 157.90343pt.
- [3] [4 <./figures//Figure1.jpeg>] [5] [6] [7]
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 718.
+ [4 <./figures//Figure1.jpeg>] [5] [6] [7]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 720.
  (d:/SOFTWARE/texlive/2023/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
 <figures//Figure2.jpeg, id=38, 603.4545pt x 713.064pt>
 File: figures//Figure2.jpeg Graphic file (type jpg)
 <use figures//Figure2.jpeg>
-Package pdftex.def Info: figures//Figure2.jpeg  used on input line 765.
+Package pdftex.def Info: figures//Figure2.jpeg  used on input line 767.
 (pdftex.def)             Requested size: 201.60077pt x 238.21693pt.
  [8 <./figures//Figure2.jpeg>]
-Underfull \hbox (badness 1005) in paragraph at lines 877--878
+Underfull \hbox (badness 1005) in paragraph at lines 880--881
 [] []\OT1/txr/m/n/10 Randomly sam-ple a mini-batch of $\OML/txmi/m/it/10 i$ \OT1/txr/m/n/10 tran-si-tions
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 930--933
+Underfull \hbox (badness 1072) in paragraph at lines 932--935
 []\OT1/txr/m/n/10 We se-lect four joint caching and of-fload-ing bench-mark
  []
 
-<figures//Figure3.jpeg, id=45, 624.6537pt x 398.9304pt>
+[9]
+<figures//Figure3.jpeg, id=48, 624.6537pt x 398.9304pt>
 File: figures//Figure3.jpeg Graphic file (type jpg)
 <use figures//Figure3.jpeg>
-Package pdftex.def Info: figures//Figure3.jpeg  used on input line 945.
+Package pdftex.def Info: figures//Figure3.jpeg  used on input line 949.
 (pdftex.def)             Requested size: 201.60077pt x 128.74994pt.
-[9]
 <figures//Figure4.jpeg, id=50, 624.6537pt x 392.4261pt>
 File: figures//Figure4.jpeg Graphic file (type jpg)
 <use figures//Figure4.jpeg>
-Package pdftex.def Info: figures//Figure4.jpeg  used on input line 951.
+Package pdftex.def Info: figures//Figure4.jpeg  used on input line 955.
 (pdftex.def)             Requested size: 201.60077pt x 126.65076pt.
 <figures//Figure5.jpeg, id=51, 620.0766pt x 398.9304pt>
 File: figures//Figure5.jpeg Graphic file (type jpg)
 <use figures//Figure5.jpeg>
-Package pdftex.def Info: figures//Figure5.jpeg  used on input line 968.
+Package pdftex.def Info: figures//Figure5.jpeg  used on input line 971.
 (pdftex.def)             Requested size: 201.60077pt x 129.69954pt.
- [10 <./figures//Figure3.jpeg> <./figures//Figure4.jpeg> <./figures//Figure5.jpeg>]
-<figures//Figure6.jpeg, id=58, 697.1646pt x 407.6028pt>
+ [10 <./figures//Figure3.jpeg> <./figures//Figure4.jpeg>]
+<figures//Figure6.jpeg, id=57, 697.1646pt x 407.6028pt>
 File: figures//Figure6.jpeg Graphic file (type jpg)
 <use figures//Figure6.jpeg>
-Package pdftex.def Info: figures//Figure6.jpeg  used on input line 982.
+Package pdftex.def Info: figures//Figure6.jpeg  used on input line 987.
 (pdftex.def)             Requested size: 201.60077pt x 117.86592pt.
-<figures//Figure7.jpeg, id=59, 629.2308pt x 394.5942pt>
+<figures//Figure7.jpeg, id=58, 629.2308pt x 394.3533pt>
 File: figures//Figure7.jpeg Graphic file (type jpg)
 <use figures//Figure7.jpeg>
-Package pdftex.def Info: figures//Figure7.jpeg  used on input line 998.
-(pdftex.def)             Requested size: 201.60077pt x 126.42323pt.
-<figures//Figure8.jpeg, id=60, 620.0766pt x 392.667pt>
+Package pdftex.def Info: figures//Figure7.jpeg  used on input line 1000.
+(pdftex.def)             Requested size: 201.60077pt x 126.34605pt.
+<figures//Figure8.jpeg, id=59, 620.0766pt x 392.667pt>
 File: figures//Figure8.jpeg Graphic file (type jpg)
 <use figures//Figure8.jpeg>
-Package pdftex.def Info: figures//Figure8.jpeg  used on input line 1004.
+Package pdftex.def Info: figures//Figure8.jpeg  used on input line 1006.
 (pdftex.def)             Requested size: 201.60077pt x 127.6632pt.
- (./elsarticle-template-num.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11 <./figures//Figure6.jpeg> <./figures//Figure7.jpeg> <./figures//Figure8.jpeg>]
+ [11 <./figures//Figure5.jpeg> <./figures//Figure6.jpeg> <./figures//Figure7.jpeg> <./figures//Figure8.jpeg>] (./elsarticle-template-num.bbl
 Underfull \hbox (badness 3646) in paragraph at lines 17--19
 []\OT1/txr/m/n/8 L. Zhu, B. Li, L. Tan, Ve-hic-u-lar edge cloud com-put-ing con-
  []
@@ -860,9 +857,9 @@ Here is how much of TeX's memory you used:
  26751 multiletter control sequences out of 15000+600000
  564087 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,17n,76p,1442b,618s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,18n,76p,1442b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxbmi.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/SOFTWARE/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on elsarticle-template-num.pdf (13 pages, 2478312 bytes).
+Output written on elsarticle-template-num.pdf (13 pages, 2476255 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream

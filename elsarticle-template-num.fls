@@ -545,10 +545,6 @@ INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
-INPUT ./figures//Figure1.jpeg
-INPUT figures//Figure1.jpeg
-INPUT ./figures//Figure1.jpeg
-INPUT ./figures//Figure1.jpeg
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txr.vf
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
@@ -564,6 +560,10 @@ INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txmi.vf
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxmi.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT ./figures//Figure1.jpeg
+INPUT figures//Figure1.jpeg
+INPUT ./figures//Figure1.jpeg
+INPUT ./figures//Figure1.jpeg
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txb.tfm
 INPUT d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/txbmi.tfm

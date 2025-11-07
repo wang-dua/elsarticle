@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex elsarticle-template-num"] 1762417786 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1762420765 0
+["bibtex elsarticle-template-num"] 1762484202 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1762484210 0
   "./bib.bib" 1762177216 17238 a4c439b969c75e64ac26ae3bd6adce2e ""
   "./elsarticle-num.bst" 1736419034 29462 3b2a1af2ce1e224a3b46ee048ffd4b98 ""
-  "elsarticle-template-num.aux" 1762420764 9492 84648159ee71076ff0c099161acc5e9f "pdflatex"
+  "elsarticle-template-num.aux" 1762484209 9504 2ab681d86bfdf670ea564ce1807ed597 "pdflatex"
   (generated)
   "elsarticle-template-num.bbl"
   "elsarticle-template-num.blg"
   (rewritten before read)
-["pdflatex"] 1762420757 "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1762420765 0
-  "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" 1762420756 72012 7e5c4c438c6a2e74c81c3c2d7a5a2763 ""
+["pdflatex"] 1762484202 "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1762484210 0
+  "d:/SOFTWARE/Texmodel/Manuscript-ELsiver-one column/elsarticle-template-num.tex" 1762484193 71837 724d9d3bf292b6ec03b7cb28c9594ffd ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1701156385 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1701156599 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/SOFTWARE/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1701155809 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -117,18 +117,18 @@
   "d:/SOFTWARE/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701159153 4662822 d9decf19d0957b84ba08b66e7f546f43 ""
   "d:/SOFTWARE/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701159324 7883613 ec33933a16a9d76c3288846bed18e78d ""
   "d:/SOFTWARE/texlive/2023/texmf.cnf" 1701159102 713 e69b156964470283e0530f5060668171 ""
-  "elsarticle-template-num.aux" 1762420764 9492 84648159ee71076ff0c099161acc5e9f "pdflatex"
-  "elsarticle-template-num.bbl" 1762417787 13228 52967ba0fd3fd043743e184f89b183d3 "bibtex elsarticle-template-num"
-  "elsarticle-template-num.spl" 1762420758 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "elsarticle-template-num.tex" 1762420756 72012 7e5c4c438c6a2e74c81c3c2d7a5a2763 ""
+  "elsarticle-template-num.aux" 1762484209 9504 2ab681d86bfdf670ea564ce1807ed597 "pdflatex"
+  "elsarticle-template-num.bbl" 1762484202 13228 52967ba0fd3fd043743e184f89b183d3 "bibtex elsarticle-template-num"
+  "elsarticle-template-num.spl" 1762484203 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "elsarticle-template-num.tex" 1762484193 71837 724d9d3bf292b6ec03b7cb28c9594ffd ""
   "figures//Figure1.jpeg" 1746610657 320893 35c854627b493005f5a5c67f14314c4e ""
   "figures//Figure2.jpeg" 1745502592 665446 a0d3f9010fdf6864e40782033aca957c ""
-  "figures//Figure3.jpeg" 1760704934 466589 7601f50d049680e4a83f11fc0c8913a0 ""
-  "figures//Figure4.jpeg" 1760704958 427653 36c69443dcdf6b8f99e89175d0085c3b ""
-  "figures//Figure5.jpeg" 1760792395 295863 21691713a78575af258dc245e8ee4300 ""
-  "figures//Figure6.jpeg" 1760792550 123567 1f2cac75c599b00f3f70e01ac03931c5 ""
-  "figures//Figure7.jpeg" 1760704219 239880 e9c28a2e510583f9b36adcc3ad7cfbd8 ""
-  "figures//Figure8.jpeg" 1760704513 225380 1522a3778975e20f61df19b7c036cfed ""
+  "figures//Figure3.jpeg" 1762483452 473106 921b2c64f27d34c1b054f4ed59eeca63 ""
+  "figures//Figure4.jpeg" 1762483490 428164 306ab4fc4597e99561c90484832c36b0 ""
+  "figures//Figure5.jpeg" 1762483886 285800 8e2e43ab55b6fbd475ee5a21b8e7eb25 ""
+  "figures//Figure6.jpeg" 1762483553 122068 9425c8d7f927140af0115ed7fc497e7d ""
+  "figures//Figure7.jpeg" 1762483793 236045 0352f60f19c86b136859768893e2e284 ""
+  "figures//Figure8.jpeg" 1762483819 226630 7a771d794d1282934e5242769657af23 ""
   (generated)
   "elsarticle-template-num.aux"
   "elsarticle-template-num.log"
